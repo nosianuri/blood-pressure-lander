@@ -1,0 +1,17 @@
+
+button{
+    /* background: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%); */
+    box-shadow: 0px 0px 53px -10px rgb(143 255 213 / 70%);;
+}
+
+.christ{
+    font-family: 'Mountains of Christmas', cursive;
+    font-weight: 700;
+}
+
+.sale, .save{
+    /* font-family: 'Barlow Semi Condensed', sans-serif; */
+}
+@media screen and (max-width: 780px) {
+    
+}
