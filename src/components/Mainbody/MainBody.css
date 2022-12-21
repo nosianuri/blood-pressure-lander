@@ -9,10 +9,6 @@ button{
     font-weight: 700;
 }
 
-.sale, .save{
-    /* font-family: 'Barlow Semi Condensed', sans-serif; */
-}
-
 .bannerbody-img img{
     animation: updown 3s linear infinite;
     }
