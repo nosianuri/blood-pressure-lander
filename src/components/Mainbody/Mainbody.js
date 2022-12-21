@@ -13,7 +13,7 @@ const Mainbody = () => {
     }} class=" !bg-no-repeat !bg-cover">
       <div className='text-center bg-black bg-opacity-[.67] text-white py-10'>
       <div className='lg:border-0 border-2 border-black border-y-gray-800 py-2'>
-      <h1 className='lg:text-4xl text-2xl font-bold px-3 lg:px-0 mb-2'>Discover The Secret of Blood Pressure 911 </h1>
+      <h1 className='lg:text-5xl text-2xl font-bold px-3 lg:px-0 mb-2'>Discover The Secret of Blood Pressure 911 </h1>
       </div>
         
         <div className='lg:border-0 border-2 border-black border-y-gray-800 py-2 px-5'>
