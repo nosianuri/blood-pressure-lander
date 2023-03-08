@@ -1,5 +1,5 @@
 import React from 'react'
-import mainimg from '../../assets/bottle-add.png';
+import logo from '../../assets/cropped-favicon-180x180.png'
 import gauranted from '../../assets/imgpsh_fullsize.png';
 import imglogo from '../../assets/secure-300x74.png';
 import sideBanner from '../../assets/banner_side_dark.png';
