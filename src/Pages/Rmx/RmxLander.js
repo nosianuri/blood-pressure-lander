@@ -38,7 +38,7 @@ const RmxLander = () => {
                             <div className='bg-[#21368d] rounded-xl'>
                                 <p className='text-white sm:text-4xl text-2xl py-3 text-center leading-normal'>Benefits of RMX</p>
                             </div>
-                            <img src="https://i.ibb.co/QQdJPkc/rmx-benefits.png" alt="" className='mx-auto my-5' />
+                            <img src="https://i.ibb.co/9v9d9JZ/rmx-benefit.png" alt="" className='mx-auto my-5' />
                             <p className='sm:text-xl my-5 leading-normal'>The RMX Male Enhancement System offers multiple sexual health benefits, including improved libido and sex drive, bigger, harder and longer erections, increased staying power, increased penis size, and improved sexual confidence. Our powerful ingredients, including L-Arginine, Asian Red Ginger Extracts, Saw Palmetto Berry, Horny Goat Weed Extract, and Bioperine, are clinically tested to guarantee maximum results.</p>
                             <p className='sm:text-xl my-5 leading-normal'>Don't just take our word for it. Hundreds of men across all ages have already benefited from RMX Male Enhancement System and have beaten sexual dysfunction to enjoy a fuller and satisfied sex life. Experience sexual power, pleasure, and performance today by ordering your RMX Male Enhancement System, proudly made in the USA at a certified manufacturing facility to meet statutory industry standards.</p>
 
