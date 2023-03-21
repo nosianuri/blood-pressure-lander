@@ -10,7 +10,7 @@ const Alpilean = () => {
         <>
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>Alpilean</title>
+                <title>Shed pounds effortlessly with our all-natural weight loss supplement!</title>
             </Helmet>
 
             <div style={{
