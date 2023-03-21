@@ -4,6 +4,7 @@ import Home from './components/Home/Home';
 import Alpilean from './Pages/Alpilean/Alpilean';
 import AlpileanHome from './Pages/Alpilean/AlpileanHome';
 import AlpileanNew from './Pages/AlpileanNew/AlpileanNew';
+import RmxLander from './Pages/Rmx/RmxLander';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Routes>
         <Route path='/bloodpressure911' element={<Home />} />
         <Route path='/alpilean' element={<AlpileanHome />} />
+        <Route path='/rmx' element={<RmxLander />} />
         <Route path='/alpileansite' element={<AlpileanNew />} />
       </Routes>
     </div>
