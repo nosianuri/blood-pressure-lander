@@ -45,7 +45,7 @@ const Rmx = () => {
                         <img src="" alt="" />
                     </a>
                     <div className='text-center sm:text-4xl text-lg my-8 font-bold'><a href="/" className='text-white bg-purple-700 underline px-4'>Click here to See The product</a></div>
-                    {/* <div>Disclaimer: Privacy Policy </div> */}
+                    <div className='text-center'>Copyright © 2023. <span className='text-orange-700'>Offer Shop Today</span> | <a className='hover:underline hover:text-orange-700' href="/">Disclaimer</a> | <a className='hover:underline hover:text-orange-700' href="/">Privacy Policy</a> | <a className='hover:underline hover:text-orange-700' href="/">Tos</a></div>
                 </div>
             </div>
         </>
