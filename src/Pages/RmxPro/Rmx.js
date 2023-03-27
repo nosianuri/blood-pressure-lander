@@ -27,7 +27,7 @@ const Rmx = () => {
                             onChange={(e) => setText(e.target.value)}
                         />
                     </div> */}
-                    <div className='text-6xl border border-blue-800 p-1 text-center my-5 !leading-normal'>
+                    <div className='text-6xl  p-1 text-center my-5 !leading-normal'>
                         <span className='text-red-700 font-bold'>Important Warning!</span> Don't Use The Products If Your Partner Can't Cope With Over 50 Minutes of Action.
                     </div>
                     <p className='text-center text-2xl !leading-normal'>The products you're about to see will help you cure <span className='font-bold underline'>Premature Eja****tion, weak manhood, quick explusion, weakness after explusion, low urge, tiredness during "action" and back pain</span>. They are 100% effective and approved by NAFDAC. <span className='text-orange-500 italic'>Kindly click the link below to see the Products and also see testimonials from past users below.</span></p>
