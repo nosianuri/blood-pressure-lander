@@ -15,7 +15,7 @@ const PrivacyPolicy = () => {
                 
                     <div className='max-w-7xl mx-auto justify-center px-4 py-10'>
                     <h1 className='font-bold text-center text-3xl mb-3'>Privacy Policy</h1>
-                        <h2 className='text-xl'>At <span className='font-bold'>[Company Name]</span>, we value and respect the privacy of our customers and visitors. This privacy policy outlines how we collect, use, and protect the information that we receive from our users.</h2>
+                        <h2 className='text-xl'>At <span className='font-bold'>Offershop Today</span>, we value and respect the privacy of our customers and visitors. This privacy policy outlines how we collect, use, and protect the information that we receive from our users.</h2>
 
                         <h1 className='font-bold my-3'>Information Collection and Use:</h1>
 
@@ -29,13 +29,13 @@ const PrivacyPolicy = () => {
                         <p className='mt-2'>We may also disclose personal information if required by law, to protect our rights, or to comply with a court order or legal process.</p>
 
 
-                        <span className='font-bold my-3'> Security:</span>
+                        <h1 className='font-bold my-3'> Security:</h1>
                         <p> We take reasonable measures to ensure the security of the information we collect from our users. We use industry-standard encryption technologies to protect sensitive information during transmission and storage.</p>
 
                         <p className='mt-2'> However, please note that no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee the absolute security of your information.</p>
 
 
-                        <span className='font-bold my-3'>Cookies:</span>
+                        <h1 className='font-bold my-3'>Cookies:</h1>
                         <p className=''>Our website uses cookies to enhance user experience and to track user activity on our site. Cookies are small files that are stored on a user's device and are used to remember user preferences and settings.</p>
 
                         <p className='mt-2'>Users may choose to disable cookies in their browser settings, but please note that some features of our website may not function properly without cookies.</p>

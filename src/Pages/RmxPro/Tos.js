@@ -23,18 +23,18 @@ const Tos = () => {
 
                         <h1 className='font-bold my-3'>Intellectual Property:</h1>
 
-                        <p>All content on our website, including text, graphics, logos, images, and software, is the property of [Company Name] or its content suppliers and is protected by United States and international copyright laws. You may not copy, distribute, or use any content from our website without the prior written consent of [Company Name].</p>
+                        <p>All content on our website, including text, graphics, logos, images, and software, is the property of Offershop Today or its content suppliers and is protected by United States and international copyright laws. You may not copy, distribute, or use any content from our website without the prior written consent of Offershop Today.</p>
 
                         <h1 className='font-bold my-3'>Disclaimer of Warranties:</h1>
 
                         <p>Our website is provided on an "as is" and "as available" basis. We do not warrant that our website will be uninterrupted or error-free, and we do not make any warranties, express or implied, regarding the use or the results of our website in terms of its correctness, accuracy, reliability, or otherwise.</p>
 
                         <h1 className='font-bold my-3'>Limitation of Liability:</h1>
-                        <p>In no event shall [Company Name], its directors, officers, employees, or agents be liable for any direct, indirect, punitive, incidental, special, or consequential damages arising out of or in any way connected with the use of our website or with the delay or inability to use our website, or for any information, products, and services obtained through our website, or otherwise arising out of the use of our website, whether based on contract, tort, strict liability, or otherwise, even if [Company Name] has been advised of the possibility of damages.</p>
+                        <p>In no event shall Offershop Today, its directors, officers, employees, or agents be liable for any direct, indirect, punitive, incidental, special, or consequential damages arising out of or in any way connected with the use of our website or with the delay or inability to use our website, or for any information, products, and services obtained through our website, or otherwise arising out of the use of our website, whether based on contract, tort, strict liability, or otherwise, even if Offershop Today has been advised of the possibility of damages.</p>
 
                         <h1 className='font-bold my-3'>Indemnification:</h1>
 
-                        <p>You agree to indemnify, defend, and hold harmless [Company Name], its directors, officers, employees, and agents from and against any and all claims, damages, liabilities, costs, and expenses, including reasonable attorneys' fees, arising from or related to your use of our website or your violation of these TOS.</p>
+                        <p>You agree to indemnify, defend, and hold harmless Offershop Today, its directors, officers, employees, and agents from and against any and all claims, damages, liabilities, costs, and expenses, including reasonable attorneys' fees, arising from or related to your use of our website or your violation of these TOS.</p>
 
                         <h1 className='font-bold my-3'>Termination:</h1>
 
