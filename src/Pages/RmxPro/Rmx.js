@@ -30,7 +30,10 @@ const Rmx = () => {
                     <div className='sm:text-6xl text-3xl  p-1 text-center mb-5 !leading-normal'>
                         <span className='text-red-700 font-bold'>Important Warning!</span> <br /><span className=' bg-yellow-300 px-1'>Don't Use The Product If Your Partner Can't Cope With Over 50 Minutes of Action.</span> 
                     </div>
-                    <p className='text-center text-2xl !leading-normal'>The product you're about to see will help you cure <span className='font-bold underline'>Premature Eja****tion, weak manhood, quick explusion, weakness after explusion, low urge, tiredness during "action" and back pain</span>. They are 100% effective and approved by NAFDAC. <span className='text-orange-500 italic'>Kindly click the link below to see the Product and also see testimonials from past users below.</span></p>
+                    <img src="https://i.ibb.co/551ZX6b/rmx-benefit.png" alt="" className='mx-auto my-5 w-3/4' />
+                    <p className='text-center text-2xl !leading-normal'>The product you're about to see will help you cure <span className='font-bold underline'>Premature Eja****tion, weak manhood, quick explusion, weakness after explusion, low urge, tiredness during "action" and back pain</span>. They are 100% effective and approved by NAFDAC. </p>
+                    {/* <span className='text-orange-500 italic'>Kindly click the link below to see the Product and also see testimonials from past users below.</span> */}
+                    
                     {/* <p className='text-blue-700 text-center font-bold my-5 text-2xl'>Click here to see testimonials From Users</p> */}
                     <p className='text-xl mt-5'>Highlighted below are some of the problems we've helped people to solve with our powerful herbal product:</p>
                     <ul className='ul-article text-xl'>
