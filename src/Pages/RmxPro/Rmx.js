@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Helmet } from 'react-helmet';
+import product from '../../assets/product.gif';
 
 const Rmx = () => {
     const [text, setText] = useState("<span className='text-red text-5xl'>Important Warning!</span> Don't Use The Products If Your Partner Can't Cope With Over 50 Minutes of Action.");
@@ -45,10 +46,10 @@ const Rmx = () => {
                     </ul>
                     <p className='text-red-800 font-bold text-center text-2xl'>By clicking the link below, you guarantee that you're above the age of 18 and you will not abuse the usage of the product.</p>
                     <a href="https://www.r3hlvtrk.com/3J67C/8C1LQ73/">
-                        <img src="" alt="" />
+                        <img src={product} alt="" className='mx-auto' />
                     </a>
-                    <div className='text-center sm:text-4xl text-lg my-8 font-bold'><a href="/" className='text-white bg-purple-700 underline px-4'>Click here to See The product</a></div>
-                    <div className='text-center'>Copyright © 2023. <span className='text-orange-700'>Offer Shop Today</span> | <a className='hover:underline hover:text-orange-700' href="/">Disclaimer</a> | <a className='hover:underline hover:text-orange-700' href="/">Privacy Policy</a> | <a className='hover:underline hover:text-orange-700' href="/">Tos</a></div>
+                    {/* <div className='text-center sm:text-4xl text-lg my-8 font-bold'><a href="/" className='text-white bg-purple-700 underline px-4'>Click here to See The product</a></div> */}
+                    <div className='text-center sm:mt-10 mt-5'>Copyright © 2023. <span className='text-orange-700'>Offer Shop Today</span> | <a className='hover:underline hover:text-orange-700' href="/disclaimer">Disclaimer</a> | <a className='hover:underline hover:text-orange-700' href="/privacy-policy">Privacy Policy</a> | <a className='hover:underline hover:text-orange-700' href="/terms-of-service">Tos</a></div>
                 </div>
             </div>
         </>
