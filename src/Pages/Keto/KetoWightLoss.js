@@ -228,7 +228,9 @@ const KetoWightLoss = () => {
                         For those who are very adamant, really decided to become happy, beautiful, attractive and uncontrollably desired, I will do the same as Olivia did for me. I'll show you where you can find the website of the manufacturer Green Coffee, which she talked about. Just click the button that says, "GO TO MANUFACTURER'S SITE" below and it will open. Everything else is in your own hands. <br /></p>
                     <img src="https://i.ibb.co/w7vz0wN/green-coffee.webp" alt="" className='mx-auto w-52' />
                     <div className='text-center my-10'>
-                        <button className='discover_button'>GO TO THE MANUFACTURER'S SITE</button>
+                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                            <button className='discover_button'>GO TO THE MANUFACTURER'S SITE</button>
+                        </a>
                     </div>
                     <div>
                         <div className='flex gap-5 border border-white border-b-gray-300 px-1 py-5'>
@@ -347,7 +349,9 @@ const KetoWightLoss = () => {
                             </div>
                         </div>
                         <div className='text-center my-10'>
-                            <button className='discover_button'>DISCOVER IT NOW</button>
+                            <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                <button className='discover_button'>DISCOVER IT NOW</button>
+                            </a>
                         </div>
 
                         <footer>
