@@ -11,6 +11,7 @@ import Disclaimer from './Pages/RmxPro/Disclaimer';
 import PrivacyPolicy from './Pages/RmxPro/PrivacyPolicy';
 import Rmx from './Pages/RmxPro/Rmx';
 import Tos from './Pages/RmxPro/Tos';
+import KetoControlPro from './Pages/KetoControl/KetoControlPro';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path='/rmx' element={<RmxLander />} />
         <Route path='/green-coffee' element={<KetoWightLoss />} />
         <Route path='/keto-control' element={<KetoControl />} />
+        <Route path='/keto-control2' element={<KetoControlPro />} />
         <Route path='/read-more' element={<Rmx />} />
         <Route path='/disclaimer' element={<Disclaimer />} />
         <Route path='/terms-of-service' element={<Tos />} />
