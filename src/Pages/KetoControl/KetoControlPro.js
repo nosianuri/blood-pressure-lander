@@ -16,11 +16,11 @@ const KetoControlPro = () => {
 
                         <div className='flex gap-24 items-center'>
                             <a href="/"><img src="https://i.ibb.co/8cbCXGQ/mobile-logo.jpg" alt="" className='w-40' /></a>
-                            <ul className='uppercase flex gap-8 font-bold text-blue-500 sm:block hidden'>
-                                <li>Love</li>
-                                <li>celebs</li>
-                                <li>beauty</li>
-                                <li>Gift Ideas</li>
+                            <ul className='uppercase flex gap-8 font-bold text-blue-500 nav'>
+                                <p>Love</p>
+                                <p>celebs</p>
+                                <p>beauty</p>
+                                <p>Gift Ideas</p>
                             </ul>
                         </div>
                     </div>
