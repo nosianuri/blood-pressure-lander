@@ -18,7 +18,8 @@ function App() {
         <Route path='/bloodpressure911' element={<Home />} />
         <Route path='/alpilean' element={<AlpileanHome />} />
         <Route path='/rmx' element={<RmxLander />} />
-        <Route path='/keto' element={<KetoWightLoss />} />
+        <Route path='/green-coffee' element={<KetoWightLoss />} />
+        <Route path='/keto-control' element={<KetoWightLoss />} />
         <Route path='/read-more' element={<Rmx />} />
         <Route path='/disclaimer' element={<Disclaimer />} />
         <Route path='/terms-of-service' element={<Tos />} />
