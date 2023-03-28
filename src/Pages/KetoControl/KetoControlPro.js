@@ -119,7 +119,7 @@ const KetoControlPro = () => {
                                         </a>
                                         <p className='italic text-lg'>After the fourth week, my final results were incredible. Look at the new me! I lost an unbelievable 31 pounds since starting I started using these Skinny Pills! Everyone at PIOP is kicking themselves for not having volunteered to be the guinea pig. Using the <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies in week 4, I lost an additional 11 pounds.</p>
                                     </div>
-                                    <h5 className='italic text-3xl'>CELEBRITIES LOVE <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies</h5>
+                                    <h5 className='italic text-3xl my-5'>CELEBRITIES LOVE <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies</h5>
                                     <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                     <img src="https://i.ibb.co/tPxxMKW/mm.jpg" alt="" />
                                     </a>
