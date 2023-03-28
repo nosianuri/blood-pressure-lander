@@ -26,7 +26,7 @@ const KetoControlPro = () => {
                     </div>
                 </div>
                 {/* main body */}
-                <div>
+                <div className='mb-16'>
                     <div className='max-w-[1150px] mx-auto justify-center px-4 py-2 alpine pt-32'>
                         <div className='keto-body gap-10'>
                             <div>
@@ -43,12 +43,12 @@ const KetoControlPro = () => {
                                     <p className='font-medium italic'>The judges were amazed that one product was able to do all of the following:
                                     </p>
                                     <ul className='ul-article font-medium italic'>
-                                        <li>- Stops Excess Fat Production </li>
-                                        <li>- Suppresses Your Appetite</li>
-                                        <li>- Increases Serotonin Creation For Emotional Eaters</li>
-                                        <li>- Increases Energy Levels</li>
-                                        <li>- Improves Sleep and Prevents Fatigue</li>
-                                        <li>- Made From 100% All Natural and Organic Ingredients  FDA Approved</li>
+                                        <li> Stops Excess Fat Production </li>
+                                        <li> Suppresses Your Appetite</li>
+                                        <li> Increases Serotonin Creation For Emotional Eaters</li>
+                                        <li> Increases Energy Levels</li>
+                                        <li> Improves Sleep and Prevents Fatigue</li>
+                                        <li> Made From 100% All Natural and Organic Ingredients  FDA Approved</li>
                                     </ul>
                                     <p className='italic mb-1'>“It didn’t feel real. The fact that all these successful, business-minded people wanted to be apart of <span className='text-blue-500'>Go90 Keto+ACV Gummies</span> and what we were doing was very emotional!" explained Anna.</p>
                                     <p className='italic text-lg my-3'>The pair are the first contestants in the show’s long duration to ever receive a standing ovation and offers of investment from all five panel members. The sisters said they celebrated the success with champagne and cake when the episode wrapped.</p>
@@ -235,66 +235,88 @@ const KetoControlPro = () => {
                                 </div>
                                 <div>
                                     <div className='flex gap-5 border border-white border-b-gray-300 px-1 py-5'>
-                                        <img src="https://i.ibb.co/0Bf0cR6/elvira7.webp" alt="" className='review-img' />
+                                        <img src="https://i.ibb.co/dWWt7P9/c10.jpg" alt="" className='review-img' />
                                         <div>
-                                            <p className='text-sm text-[#ec9123]'><span className='font-bold text-2xl text-black'>Elvira</span>, 23.01.2023</p>
-                                            <p className='mt-1'>I wanted to ask, is this Keto Control suitable for everyone?! It's just that my mom is 56, won't she come anymore?</p>
+                                            <p className='font-medium text-blue-500'>Tohloria Lewis</p>
+                                            <p className='mt-1 text-sm'>I have been using this Weight Loss for 3 weeks now, and I seriously lost 15 lbs! Not quite as good as the celebrities, but I will take it when it was less than 30 bucks for each! Thank you so much for reporting on this!</p>
+                                            <p className='text-sm text-blue-500 mt-1'>Reply. 13 . Like . <span className='underline text-gray-400'>12 minutes ago</span></p>
                                         </div>
                                     </div>
                                     <div className='flex gap-5 border border-white border-b-gray-300 px-1 py-5'>
-                                        <img src="https://i.ibb.co/0Bf0cR6/elvira7.webp" alt="" className='review-img' />
+                                        <img src="https://i.ibb.co/zfvSPzM/c1.jpg" alt="" className='review-img' />
                                         <div>
-                                            <p className='text-sm text-[#ec9123]'><span className='font-bold text-2xl text-black'>Elvira</span>, 23.01.2023</p>
-                                            <p className='mt-1'>I wanted to ask, is this Keto Control suitable for everyone?! It's just that my mom is 56, won't she come anymore?</p>
+                                            <p className='font-medium text-blue-500'>Tanya Porquez</p>
+                                            <p className='mt-1 text-sm'>I saw this combo on CNN a while ago and I'm still using the combo. I've been using the products for about 6 wks Go90 Keto+ACV Gummies came first, had to wait for the second supplement for an extra day). Honestly, this is unbelievable, all I have to say is WOW.</p>
+                                            <p className='text-sm text-blue-500 mt-1'>Reply. 6 . Like . <span className='underline text-gray-400'>13 minutes ago</span></p>
                                         </div>
                                     </div>
                                     <div className='flex gap-5 border border-white border-b-gray-300 px-1 py-5'>
-                                        <img src="https://i.ibb.co/0Bf0cR6/elvira7.webp" alt="" className='review-img' />
+                                        <img src="https://i.ibb.co/k0FdgVf/c2.jpg" alt="" className='review-img' />
                                         <div>
-                                            <p className='text-sm text-[#ec9123]'><span className='font-bold text-2xl text-black'>Elvira</span>, 23.01.2023</p>
-                                            <p className='mt-1'>I wanted to ask, is this Keto Control suitable for everyone?! It's just that my mom is 56, won't she come anymore?</p>
+                                            <p className='font-medium text-blue-500'>Jennifer Jackson Mercer</p>
+                                            <p className='mt-1 text-sm'>A friend of mine used and recommended it to me 3 weeks ago. I ordered the products and received them within 3 days. The results have been incredible and I can't wait to see what weeks 3 and 4 bring.</p>
+                                            <p className='text-sm text-blue-500 mt-1'>Reply. 19 . Like . <span className='underline text-gray-400'>25 minutes ago</span></p>
                                         </div>
                                     </div>
                                     <div className='flex gap-5 border border-white border-b-gray-300 px-1 py-5'>
-                                        <img src="https://i.ibb.co/0Bf0cR6/elvira7.webp" alt="" className='review-img' />
+                                        <img src="https://i.ibb.co/4TfDMb1/c3.jpg" alt="" className='review-img' />
                                         <div>
-                                            <p className='text-sm text-[#ec9123]'><span className='font-bold text-2xl text-black'>Elvira</span>, 23.01.2023</p>
-                                            <p className='mt-1'>I wanted to ask, is this Keto Control suitable for everyone?! It's just that my mom is 56, won't she come anymore?</p>
+                                            <p className='font-medium text-blue-500'>Kristy Cash</p>
+                                            <p className='mt-1 text-sm'>
+                                                WOW Ellen Is an Icon For Us Older Women, I wish knew about these products before I had liposuction surgery! I would have saved a heck of a lot of money!
+                                            </p>
+                                            <p className='text-sm text-blue-500 mt-1'>Reply. Like . <span className='underline text-gray-400'>46 minutes ago</span></p>
                                         </div>
                                     </div>
                                     <div className='flex gap-5 border border-white border-b-gray-300 px-1 py-5'>
-                                        <img src="https://i.ibb.co/0Bf0cR6/elvira7.webp" alt="" className='review-img' />
+                                        <img src="https://i.ibb.co/Zg6g4j4/c4.jpg" alt="" className='review-img' />
                                         <div>
-                                            <p className='text-sm text-[#ec9123]'><span className='font-bold text-2xl text-black'>Elvira</span>, 23.01.2023</p>
-                                            <p className='mt-1'>I wanted to ask, is this Keto Control suitable for everyone?! It's just that my mom is 56, won't she come anymore?</p>
+                                            <p className='font-medium text-blue-500'>Katy Barrott</p>
+                                            <p className='mt-1 text-sm'>
+                                                Never even thought about combining the products. I am very much pleased after using this product.
+                                            </p>
+                                            <p className='text-sm text-blue-500 mt-1'>Reply. 43 . Like . <span className='underline text-gray-400'>about an hour ago</span></p>
                                         </div>
                                     </div>
                                     <div className='flex gap-5 border border-white border-b-gray-300 px-1 py-5'>
-                                        <img src="https://i.ibb.co/0Bf0cR6/elvira7.webp" alt="" className='review-img' />
+                                        <img src="https://i.ibb.co/D1ng0JG/c6.jpg" alt="" className='review-img' />
                                         <div>
-                                            <p className='text-sm text-[#ec9123]'><span className='font-bold text-2xl text-black'>Elvira</span>, 23.01.2023</p>
-                                            <p className='mt-1'>I wanted to ask, is this Keto Control suitable for everyone?! It's just that my mom is 56, won't she come anymore?</p>
+                                            <p className='font-medium text-blue-500'>Amanda Gibson</p>
+                                            <p className='mt-1 text-sm'>
+                                                Thank you for sharing this tip! I just ordered both products.
+                                            </p>
+                                            <p className='text-sm text-blue-500 mt-1'>Reply. 3 . Like . <span className='underline text-gray-400'>1 hour ago</span></p>
                                         </div>
                                     </div>
                                     <div className='flex gap-5 border border-white border-b-gray-300 px-1 py-5'>
-                                        <img src="https://i.ibb.co/0Bf0cR6/elvira7.webp" alt="" className='review-img' />
+                                        <img src="https://i.ibb.co/5L4G9x6/c7.jpg" alt="" className='review-img' />
                                         <div>
-                                            <p className='text-sm text-[#ec9123]'><span className='font-bold text-2xl text-black'>Elvira</span>, 23.01.2023</p>
-                                            <p className='mt-1'>I wanted to ask, is this Keto Control suitable for everyone?! It's just that my mom is 56, won't she come anymore?</p>
+                                            <p className='font-medium text-blue-500'>Julie Keyse</p>
+                                            <p className='mt-1 text-sm'>
+                                                I'm a bit older than most of you folks. but this combo worked for me too! LOL! I can't say anything more xciting.Thanks for your inspirations!
+                                            </p>
+                                            <p className='text-sm text-blue-500 mt-1'>Reply. Like . <span className='underline text-gray-400'>2 hours ago</span></p>
                                         </div>
                                     </div>
                                     <div className='flex gap-5 border border-white border-b-gray-300 px-1 py-5'>
-                                        <img src="https://i.ibb.co/0Bf0cR6/elvira7.webp" alt="" className='review-img' />
+                                        <img src="https://i.ibb.co/WxHVhjS/c8.jpg" alt="" className='review-img' />
                                         <div>
-                                            <p className='text-sm text-[#ec9123]'><span className='font-bold text-2xl text-black'>Elvira</span>, 23.01.2023</p>
-                                            <p className='mt-1'>I wanted to ask, is this Keto Control suitable for everyone?! It's just that my mom is 56, won't she come anymore?</p>
+                                            <p className='font-medium text-blue-500'>Sarah Williams</p>
+                                            <p className='mt-1 text-sm'>
+                                                My sister did this a few months ago, I waited to order my using to see if it really worked and then they stopped giving out the using! what a dumb move that turned out to be. glad to see the using are back again, I wont make the same mistake.
+                                            </p>
+                                            <p className='text-sm text-blue-500 mt-1'>Reply. 12 . Like . <span className='underline text-gray-400'>2 hours ago</span></p>
                                         </div>
                                     </div>
                                     <div className='flex gap-5 border border-white border-b-gray-300 px-1 py-5'>
-                                        <img src="https://i.ibb.co/0Bf0cR6/elvira7.webp" alt="" className='review-img' />
+                                        <img src="https://i.ibb.co/p1RC9xy/c9.jpg" alt="" className='review-img' />
                                         <div>
-                                            <p className='text-sm text-[#ec9123]'><span className='font-bold text-2xl text-black'>Elvira</span>, 23.01.2023</p>
-                                            <p className='mt-1'>I wanted to ask, is this Keto Control suitable for everyone?! It's just that my mom is 56, won't she come anymore?</p>
+                                            <p className='font-medium text-blue-500'>Kirsten Bauman Riley</p>
+                                            <p className='mt-1 text-sm'>
+
+                                                I'm going to give these products a chance to work their magic on me. I've tried everything out there and so far nothing has been good enough to help me. So excited to see the results!
+                                            </p>
+                                            <p className='text-sm text-blue-500 mt-1'>Reply. 30 . Like <span className='underline text-gray-400'>.2 hours ago</span></p>
                                         </div>
                                     </div>
                                 </div>
@@ -302,6 +324,11 @@ const KetoControlPro = () => {
                         </div>
                     </div>
                 </div>
+                <section>
+                    <div className='timer'>
+                        <p className='max-w-[1100px] mx-auto text-2xl font-medium text-white text-center bg-green-700 py-1'>Exclusive Instagram Discount <span className='underline'>BE Slim Now</span></p>
+                    </div>
+                </section>
             </div>
 
         </>
