@@ -5,6 +5,7 @@ import Alpilean from './Pages/Alpilean/Alpilean';
 import AlpileanHome from './Pages/Alpilean/AlpileanHome';
 import AlpileanNew from './Pages/AlpileanNew/AlpileanNew';
 import KetoWightLoss from './Pages/Keto/KetoWightLoss';
+import KetoControl from './Pages/Keto/KetoControl';
 import RmxLander from './Pages/Rmx/RmxLander';
 import Disclaimer from './Pages/RmxPro/Disclaimer';
 import PrivacyPolicy from './Pages/RmxPro/PrivacyPolicy';
@@ -19,7 +20,7 @@ function App() {
         <Route path='/alpilean' element={<AlpileanHome />} />
         <Route path='/rmx' element={<RmxLander />} />
         <Route path='/green-coffee' element={<KetoWightLoss />} />
-        <Route path='/keto-control' element={<KetoWightLoss />} />
+        <Route path='/keto-control' element={<KetoControl />} />
         <Route path='/read-more' element={<Rmx />} />
         <Route path='/disclaimer' element={<Disclaimer />} />
         <Route path='/terms-of-service' element={<Tos />} />

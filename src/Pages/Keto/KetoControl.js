@@ -41,14 +41,15 @@ const KetoWightLoss = () => {
 
                         Egypt with a good hotel, a warm beach, food and all inclusive was the perfect option for us. <br /> <br />
                     </p>
-                    <img src="https://i.ibb.co/0GvyCHy/woman2.webp" alt="" className='mx-auto w-72' />
+
+                    <img src="https://i.ibb.co/Ssn975P/size-control.png" alt="" className='mx-auto w-72' />
                     <p className='my-2 text-lg'>On the beach, I suddenly noticed that Samuel was looking at a girl for a long time. I didn't say anything, but I just decided to watch Samuel. At first I thought he fell in love at first sight. But a little later he changed the object of his attention and he also began to closely observe the other girl, then the third, and so on ad infinitum!</p>
                     <p className=' text-lg'>She was angry! My son and I didn't seem to be close.</p>
                     <div className='font-bold my-5 border-2 border-white border-l-gray-500 px-5 text-3xl !leading-normal'>He likes skinny girls!</div>
                     <p className='text-lg mb-2'>I never wanted to seem like a jealous fool, so having calmed down a bit, I began to analyze. And I quickly realized that all these girls, whom I had been observing for several days, had one thing in common: they are twice as skinny as me! She hit me like lightning, why, she only likes skinny girls! And maybe this is the reason for his behavior in our relationship?</p>
                     <p className='mb-2 text-lg'>
                         I even have a photo where she holds me in her arms, and looks at another "skinny", admires her:</p>
-                    <img src="https://i.ibb.co/NrpRJv3/couple.webp" alt="" className='mx-auto w-72' />
+                    <img src="https://i.ibb.co/dLpDfYR/couple.png" alt="" className='mx-auto w-72' />
                     <p className='my-2 text-lg'>Samuel never told me that he didn't like my figure. He never asked me to lose weight, nothing happened. But there was no "proposal" that he was expecting.</p>
                     <p className='mb-2 text-lg'>
                         These thoughts did not give me rest, and I took advantage of them with a great all-inclusive. I ate there for like three every 2 weeks.
@@ -204,7 +205,7 @@ const KetoWightLoss = () => {
                         Immediately upon arrival home, we apply to the registry office. <br /></p>
                     <div className='font-bold my-5 border-2 border-white border-l-gray-500 px-5 text-3xl !leading-normal'>I completely forgot about my weight. For 10 days of rest in the all-inclusive system with Keto Control, I lost 7.5 kg.</div>
                     <p className='mb-4'>Because of all these events, I completely forgot about my weight. I weighed only after we got back. This time in 10 days of rest in the all-inclusive system with Keto control, I lost 7.5 kg. This, of course, is not 1 kg per day, as it was at the beginning, but on vacation I also ate, to put it mildly, not in the same way as always.</p>
-                    <img src="https://i.ibb.co/dLf9Jvc/girl-selfie.webp" alt="" className='mx-auto w-72' />
+                    <img src="https://i.ibb.co/ZXq5BVM/wieght-loss.png" alt="" className='mx-auto w-72' />
                     <p className='mt-4'>So I didn't even try to lose weight. I started drinking Keto Control every other day. But despite this, for the wedding I lost another 5 kilograms.
                         <br /> <br />
                         Our wedding with Samuel was a lot of fun. Olivia was my witness: we have become very good friends during all this time. I am immensely grateful to her for an incredibly simple weight loss recipe. <br /></p>
@@ -214,7 +215,7 @@ const KetoWightLoss = () => {
                     <p className='my-4'> For the past 3 months, Samuel and I have officially been husband and wife. Now we are engaged in the exchange of our two apartments for a common, large one, which will be spacious and comfortable.
                         <br /> <br />
                         Now I weigh 62 kilograms and 300 grams and my weight does not increase. This is why I have not been drinking Keto Control for a whole month anymore. In the end, I lost 26 kilograms and 100 grams and, even after more than 7 years of relationship, I continue to bathe in my love, Samuel. This, I tell you, is a fantastic feeling that I deserve! <br /></p>
-                    <img src="https://i.ibb.co/DgxZ03N/two-girl.webp" alt="" className='mx-auto w-72' />
+                    <img src="https://i.ibb.co/ZJfJr9N/two-women.png" alt="" className='mx-auto w-72' />
                     <div className='font-bold my-5 border-2 border-white border-l-gray-500 px-5 text-3xl !leading-normal'>I lost 26 kilograms and 100 grams. My dream became reality!</div>
                     <p>My dream became reality! And everything turned out even much better than I dreamed! Yes, it helped me when I met Olivia. But it was just an opportunity. I just used it.
                         <br /> <br />
@@ -227,7 +228,7 @@ const KetoWightLoss = () => {
                         For those who are very adamant, really decided to become happy, beautiful, attractive and uncontrollably desired, I will do the same as Olivia did for me. I'll show you where you can find the website of the manufacturer Keto Control, which she talked about. Just click the button that says, "GO TO MANUFACTURER'S SITE" below and it will open. Everything else is in your own hands. <br /></p>
                     <img src="https://i.ibb.co/w7vz0wN/green-coffee.webp" alt="" className='mx-auto w-52' />
                     <div className='text-center my-10'>
-                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                        <a href="/">
                             <button className='discover_button'>GO TO THE MANUFACTURER'S SITE</button>
                         </a>
                     </div>
@@ -348,7 +349,7 @@ const KetoWightLoss = () => {
                             </div>
                         </div>
                         <div className='text-center my-10'>
-                            <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                            <a href="/">
                                 <button className='discover_button'>DISCOVER IT NOW</button>
                             </a>
                         </div>
