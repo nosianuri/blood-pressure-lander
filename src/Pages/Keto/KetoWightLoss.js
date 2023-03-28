@@ -18,8 +18,8 @@ const KetoWightLoss = () => {
                     <p className='text-4xl font-bold text-slate-500 my-1'>[detailed recipe]</p>
                     <h5 className='italic my-2'>Home - Health - How to lose weight - Safe recipe to lose weight guaranteed</h5>
                     <p className='text-lg my-2'>Tired of being overweight? <span className='font-bold'>Can't lose weight?</span> Or, as soon as you lose weight, do you gain weight again? Do you really want to wear your favorite dress, but you can't "wear it" and buying nice clothes is a <span className='font-bold'>big problem</span> for you?</p>
-                    <div className='flex gap-5 my-10'>
-                        <img src="https://i.ibb.co/RDSCCn9/woman.webp" alt="" />
+                    <div className='sm:flex gap-5 my-10'>
+                        <img src="https://i.ibb.co/RDSCCn9/woman.webp" alt=""  className='mx-auto mb-5 sm:mb-0' />
                         <div>
                             <p className='text-lg'>“I am grateful to the people who called me fat and patronized me. If it weren't for them, I would still be just as fat!” says Marina Cortés, who has lost 26 kilograms. On the way to a beautiful body, she tried many different diets, but the most effective was a very simple way. Marina told in detail about this method, after which she does not gain extra weight even after weight loss. Here is her fascinating story ... <br /> <br />
                                 I've never been a fragile girl, but the extra weight didn't give me any particular reason to have complexes. Having met my future husband Samuel, I completely relaxed and only came to my senses when I got really fat.</p>
