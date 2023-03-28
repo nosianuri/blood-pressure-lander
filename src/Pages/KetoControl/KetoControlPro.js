@@ -147,7 +147,7 @@ const KetoControlPro = () => {
                                 <div className='mb-8'>
                                     <h5 className='text-xl mb-2'>Special Offer</h5>
                                     <div className='w-full h-[1px] bg-blue-500'></div>
-                                    <div className='bg-gray-300 px-4 py-2 my-2'>
+                                    <div className='bg-gray-300 !px-4 py-2 my-2'>
                                         <div className='flex gap-1 items-center'>
                                         <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                             <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" /></a>
@@ -218,7 +218,7 @@ const KetoControlPro = () => {
                                 <div className='mb-8'>
                                     <h5 className='text-xl mb-2'>Special Offer</h5>
                                     <div className='w-full h-[2px] bg-blue-500'></div>
-                                    <div className='bg-gray-300 px-4py-2 my-2'>
+                                    <div className='bg-gray-300 px-4 py-2 my-2'>
                                         <div className='flex gap-1 items-center'>
                                             <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" />
                                             <h6 className='text-xl pt-2'>Step 1:</h6>
