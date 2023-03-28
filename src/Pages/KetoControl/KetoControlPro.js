@@ -15,7 +15,7 @@ const KetoControlPro = () => {
                     <div className='max-w-[1100px] mx-auto justify-center px-2 py-2 alpine '>
 
                         <div className='flex gap-24 items-center'>
-                            <img src="https://i.ibb.co/8cbCXGQ/mobile-logo.jpg" alt="" className='w-40' />
+                            <a href="/"><img src="https://i.ibb.co/8cbCXGQ/mobile-logo.jpg" alt="" className='w-40' /></a>
                             <ul className='uppercase flex gap-8 font-bold text-blue-500'>
                                 <li>Love</li>
                                 <li>celebs</li>
@@ -32,8 +32,8 @@ const KetoControlPro = () => {
                             <div>
                                 <div className='pb-10 border-double border-b-8 border-gray-300 mb-10'>
                                     <h1 className='text-3xl !leading-normal'>Weight Loss Pill That Naturally Burns Fat Gets Biggest Deal In Shark Tank History</h1>
-                                    <img src="https://i.ibb.co/xhvH25W/asseenin.jpg" alt="" />
-                                    <img src="https://i.ibb.co/9W3pxGh/Intro2.jpg" alt="" />
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/"><img src="https://i.ibb.co/xhvH25W/asseenin.jpg" alt="" /></a>
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/"><img src="https://i.ibb.co/9W3pxGh/Intro2.jpg" alt="" /></a>
                                     <h6 className='font-medium italic text-xl mt-3'> Wednesday, March 29, 2023 - It was the most watched episode in Shark Tank history when sisters Anna and Samantha Martin won over the Shark Tank panel.</h6>
                                     <p className='text-sm mt-5'><span className='never'>N</span>
                                         ever before had the judging panel unanimously decided to each invest over a million dollars into a potential company.</p>
@@ -52,7 +52,9 @@ const KetoControlPro = () => {
                                     </ul>
                                     <p className='italic mb-1'>“It didn’t feel real. The fact that all these successful, business-minded people wanted to be apart of <span className='text-blue-500'>Go90 Keto+ACV Gummies</span> and what we were doing was very emotional!" explained Anna.</p>
                                     <p className='italic text-lg my-3'>The pair are the first contestants in the show’s long duration to ever receive a standing ovation and offers of investment from all five panel members. The sisters said they celebrated the success with champagne and cake when the episode wrapped.</p>
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                     <img src="https://i.ibb.co/nLg531n/2.jpg" alt="" />
+                                    </a>
                                     <p className='text-lg italic'>The sisters were the first contestants in Shark Tank history to receive investment offers from all five panel members.
                                         <br /> <br />
                                         Since filming their episode, the sisters have been hard at work putting the advice of their mentors into play.
@@ -77,18 +79,20 @@ const KetoControlPro = () => {
                                         The packages of Go90 Keto+ACV Gummies were delivered within a few days and I was really excited to try this weight loss recipe. Go90 Keto+ACV Gummies has the ideal dosage of the purest forms of Garcinia available to consumers. That's exactly why its users experience zero negative side effects. I put together this report that details my results:</p>
                                     <p className='text-lg italic'>Go90 Keto+ACV Gummies formula has been scientifically proven to:</p>
                                     <ul className='ul-article'>
-                                        <li>imgBurn fat as primary source of energy</li>
-                                        <li>imgEnhance energy and strength</li>
-                                        <li>imgIncrease the speed of metabolism by 70%</li>
-                                        <li>imgDeliver nutrients to muscles at a faster rate</li>
-                                        <li>imgBoost Adipocytes production of Leptins by 130% which cuts your appetite down</li>
-                                        <li>imgEliminate bad toxins that have built up over the years</li>
+                                        <li>Burn fat as primary source of energy</li>
+                                        <li>Enhance energy and strength</li>
+                                        <li>Increase the speed of metabolism by 70%</li>
+                                        <li>Deliver nutrients to muscles at a faster rate</li>
+                                        <li>Boost Adipocytes production of Leptins by 130% which cuts your appetite down</li>
+                                        <li>Eliminate bad toxins that have built up over the years</li>
                                     </ul>
                                     <p className='italic'>To test out the weight loss pills, I took one Go90 Keto+ACV Gummies™ pill before I went to sleep for 31 days.</p>
                                     <h1 className='italic text-3xl font-semibold my-5'>THESE WERE MY RESULTS 30 LBS OF STOMACH FAT LOST IN JUST 1 MONTH:</h1>
                                     <p className='text-3xl mb-3'>Week 1</p>
                                     <div className='sm:flex gap-3'>
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                         <img src="https://i.ibb.co/wwtsQPq/W1.png" alt="" />
+                                        </a>
                                         <p className='italic'>After 7 days on the Shark Tank Go90 Keto+ACV Gummies Weight Loss Supplements, I was in awe by how quick and dramatic the effects were. My spirits were up and I wasn't as hungry as usual. The appetite suppression was a welcomed side effect of the Go90 Keto+ACV Gummies™. I felt phenomenal and best part of all was that I didn't change a single thing about my daily routine or diet. Still no gym for me!</p>
                                     </div>
                                     <p className='italic'>On Day 7, I stepped on the electronic scale and used a caliper to find out my body fat. I had to double check because I couldn't believe it–I had lost 5 pounds of fat in my first week!
@@ -96,25 +100,37 @@ const KetoControlPro = () => {
                                         But I was still very skeptical! Many people say they lose a lot of ‘water weight' at the beginning of any cleanse or diet. I wanted to see what happened over the next few weeks before jumping to any conclusions.</p>
                                     <h6 className='text-3xl my-3 italic'>Week 2</h6>
                                     <div className='sm:flex gap-3 mb-2'>
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                         <img src="https://i.ibb.co/xsPmDBj/W2.png" alt="" />
+                                        </a>
                                         <p className='italic text-lg'>After 14 days of using Go90 Keto+ACV Gummies I clearly had more energy and focus than ever before. The detoxifying components helped me sleep the entire night, every night I kid you not I was even burning fat in my sleep. I lost 7 pounds of belly fat, and began to see my abs coming back, something my husband obviously loved. After just 14 days, I felt very confident that these two products were the real deal.</p>
                                     </div>
                                     <h6 className='text-3xl my-3 italic'>Week 3</h6>
                                     <div className='sm:flex gap-3 mb-2'>
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                         <img src="https://i.ibb.co/Fx21mNh/W3.png" alt="" />
+                                        </a>
                                         <p className='italic text-lg'>After 21 days, all my doubts were gone and I was officially a believer! I was down another 7 pounds. And I still have more bounce in my step. My apartment is immaculate from all the cleaning I've been doing. In the past, after a few weeks of other diet programs, I'd begin to run out of steam, but with Go90 Keto+ACV Gummies my energy levels didn't dip and were consistent throughout the day.</p>
                                     </div>
                                     <h6 className='text-3xl my-3 italic'>Week 4</h6>
                                     <div className='sm:flex gap-3 mb-2'>
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                         <img src="https://i.ibb.co/BGSz8Jz/W4.png" alt="" />
+                                        </a>
                                         <p className='italic text-lg'>After the fourth week, my final results were incredible. Look at the new me! I lost an unbelievable 31 pounds since starting I started using these Skinny Pills! Everyone at PIOP is kicking themselves for not having volunteered to be the guinea pig. Using the Go90 Keto+ACV Gummies in week 4, I lost an additional 11 pounds.</p>
                                     </div>
                                     <h5 className='italic text-3xl'>CELEBRITIES LOVE Go90 Keto+ACV Gummies</h5>
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                     <img src="https://i.ibb.co/tPxxMKW/mm.jpg" alt="" />
+                                    </a>
                                     <p className='italic font-medium my-2'>“I've been using Go90 Keto+ACV Gummies as my weight loss supplement for months and I'm amazed at how I've been able to keep the weight off and not be hungry! I haven't felt this healthy since my 20's! - Melissa Mccarthy</p>
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                     <img src="https://i.ibb.co/6nXvPgK/dc.jpg" alt="" />
+                                    </a>
                                     <p className='italic font-medium my-2'>“I have a hectic schedule and I don't have a lot of time to devote to workout routines. That's why I love Go90 Keto+ACV Gummies™! Taking just one per day helped me get my body where I really felt comfortable - Drew Carey</p>
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                     <img src="https://i.ibb.co/27nN8Km/Jennifer-Hudson.jpg" alt="" />
+                                    </a>
                                     <p className='italic font-medium my-2'>It's been six months since the American Idol alum started her weight-loss journey.Among many slimming pills, Go90 Keto+ACV Gummies is her only choice. In a March 2018 interview with Redbook, she revealed that she had lost a total of 80 pounds and had gone from a size 16 to a size 6. - Jennifer Hudson</p>
                                 </div>
                                 <h5 className='text-center'> Will This Work For You?</h5>
@@ -133,24 +149,28 @@ const KetoControlPro = () => {
                                     <div className='lg:w-full w-[50px] h-[1px] bg-blue-500'></div>
                                     <div className='bg-gray-300 px-4 py-2 my-2'>
                                         <div className='flex gap-1 items-center'>
-                                            <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" />
+                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                            <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" /></a>
                                             <h6 className='text-xl pt-2'>Step 1:</h6>
                                         </div>
                                         <p className='font-bold mt-2 text-sm'>CLICK HERE to Claim Your Bottle of Go90 Keto+ACV Gummies</p>
+                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                         <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" className='' />
+                                        </a>
                                     </div>
                                 </div>
                                 <div className='mb-8'>
                                     <h2 className='text-xl uppercase mb-2'>Before & After</h2>
                                     <div className='lg:w-full w-[50px] h-[2px] bg-blue-500'></div>
-                                    <img src="https://i.ibb.co/QJWP37t/cb.png" alt="" className='mt-2' />
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                    <img src="https://i.ibb.co/QJWP37t/cb.png" alt="" className='mt-2' /></a>
                                     <p className='text-sm font-bold italic'>"I've been trying to lose the same 10 lbs for what feels like forever now. Go90 Keto+ACV Gummies got rid of it in only 2 weeks! Thanks so much!"</p>
                                     <p className='mt-1 font-bold italic'>Christina Butler,</p>
                                 </div>
                                 <div className='mb-8'>
                                     <h2 className='text-xl uppercase mb-2'>Before & After</h2>
                                     <div className='lg:w-full w-[50px] h-[2px] bg-blue-500'></div>
-                                    <img src="https://i.ibb.co/85RYMVL/weight4.jpg" alt="" className='mt-2' />
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/"><img src="https://i.ibb.co/85RYMVL/weight4.jpg" alt="" className='mt-2' /></a>
                                     <p className='text-sm font-bold italic'>"Thank God I didn't go through with that tummy tuck... I got the same results, for less than a cup of coffee!"</p>
                                     <p className='mt-1 font-bold italic'>Christina Novotney</p>
                                 </div>
@@ -159,31 +179,39 @@ const KetoControlPro = () => {
                                     <div className='lg:w-full w-[50px] h-[2px] bg-blue-500'></div>
                                     <div className='bg-gray-300 px-4 py-2 my-2'>
                                         <div className='flex gap-1 items-center'>
-                                            <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" />
+                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                            <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" /></a>
                                             <h6 className='text-xl pt-2'>Step 1:</h6>
                                         </div>
                                         <p className='font-bold mt-2 text-sm'>CLICK HERE to Claim Your Bottle of Go90 Keto+ACV Gummies</p>
+                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                         <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" className='' />
+                                        </a>
                                     </div>
                                 </div>
                                 <div className='mb-8'>
                                     <h2 className='text-xl uppercase mb-2'>Before & After</h2>
                                     <div className='lg:w-full w-[50px] h-[2px] bg-blue-500'></div>
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                     <img src="https://i.ibb.co/QJhVm0S/weight6.jpg" alt="" className='mt-2' />
+                                    </a>
                                     <p className='text-sm font-bold italic'>"I have been using Go90 Keto+ACV Gummies and I am incredibly impressed with the results! My belly is flatter and it is very apparent that my skin is firmer."</p>
                                     <p className='mt-1 font-bold italic'>Briana Smith</p>
                                 </div>
                                 <div className='mb-8'>
                                     <h2 className='text-xl uppercase mb-2'>Before & After</h2>
                                     <div className='lg:w-full w-[50px] h-[2px] bg-blue-500'></div>
-                                    <img src="https://i.ibb.co/bFvqYtH/weight5.jpg" alt="" className='mt-2' />
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/"><img src="https://i.ibb.co/bFvqYtH/weight5.jpg" alt="" className='mt-2' />
+                                    </a>
                                     <p className='text-sm font-bold italic'>"Ive only been using Go90 Keto+ACV Gummies for 2 weeks, and I love it!!!!!!!! I have seen a visible change in my body, best of all my husband complimented me on my figure after just 2 weeks!!!!! He thought I had liposuction, and I didn't that is just fabulous!!!!!!!!"</p>
                                     <p className='mt-1 font-bold italic'>Carol Keeton</p>
                                 </div>
                                 <div className='mb-8'>
                                     <h2 className='text-xl uppercase mb-2'>Before & After</h2>
                                     <div className='lg:w-[200px] w-[50px] h-[2px] bg-blue-500'></div>
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                     <img src="https://i.ibb.co/vJLzjR7/bt.jpg" alt="" className='mt-2' />
+                                    </a>
                                     <p className='text-sm font-bold italic'>"As a mom of 2, I juggle work, kids, and all of life's other stresses on a daily basi. A friend of mine bought me Go90 Keto+ACV Gummies and I am incredibly impressed with the results! I couldn't believe when I started dropping the weight that same week!"</p>
                                     <p className='mt-1 font-bold italic'>Briana Taylor,</p>
                                 </div>
@@ -196,7 +224,9 @@ const KetoControlPro = () => {
                                             <h6 className='text-xl pt-2'>Step 1:</h6>
                                         </div>
                                         <p className='font-bold mt-2 text-sm'>CLICK HERE to Claim Your Bottle of Go90 Keto+ACV Gummies</p>
+                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                         <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" className='' />
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -210,25 +240,31 @@ const KetoControlPro = () => {
                             <div className='border border-gray-500 my-10 py-10 px-10'>
                                 <div className='limit gap-10'>
                                     <div>
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                         <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" />
+                                        </a>
                                     </div>
                                     <div>
                                         <div className='flex'>
                                             <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" />
                                             <h2 className='text-lg'>Step 1: <span className='underline font-semibold'>Limited Bottle Of Go90 Keto+ACV Gummies™</span></h2>
                                         </div>
+                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                         <img src="https://i.ibb.co/Vmmz3wZ/button2.png" alt="" className='my-1' />
+                                        </a>
                                         <p className='text-sm font-bold'>Take advantage of our exclusive link and enjoy Freeshipping!</p>
                                         <h1 className='text-2xl font-semibold mt-2'>Hurry! Only 2 Bottles Left. Claim Yours Now!</h1>
                                         <p className='text-sm font-bold my-2'>Offer Ends Once The Timer Hits Zero!
                                             <br />
                                             Big Discount(buy 3 get 2 free and buy 2 get 1 free)Sale Ends In: Wednesday, March 29, 2023</p>
+                                            <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                         <img src="https://i.ibb.co/Jt7ryZs/100-guarantee-seal-1-2.png" alt="" />
+                                        </a>
                                     </div>
                                 </div>
                             </div>
                             {/* recent comments */}
-                            <div>
+                            <div className='mb-16'>
                                 <div className='flex justify-between'>
                                     <p>Recent # Comments</p>
                                     <p>Add a comment</p>
@@ -326,7 +362,7 @@ const KetoControlPro = () => {
                 </div>
                 <section>
                     <div className='timer'>
-                        <p className='max-w-[1100px] mx-auto text-2xl font-medium text-white text-center bg-green-700 py-1'>Exclusive Instagram Discount <span className='underline'>BE Slim Now</span></p>
+                        <p className='max-w-[1100px] mx-auto text-2xl font-medium text-white text-center bg-green-700 py-1'><a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Exclusive Instagram Discount <span className='underline'>BE Slim Now</span></a></p>
                     </div>
                 </section>
             </div>
