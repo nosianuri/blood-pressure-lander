@@ -53,7 +53,7 @@ const KetoControlPro = () => {
                                     <p className='italic mb-1'>“It didn’t feel real. The fact that all these successful, business-minded people wanted to be apart of <span className='text-blue-500'> <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies</span> and what we were doing was very emotional!" explained Anna.</p>
                                     <p className='italic text-lg my-3'>The pair are the first contestants in the show’s long duration to ever receive a standing ovation and offers of investment from all five panel members. The sisters said they celebrated the success with champagne and cake when the episode wrapped.</p>
                                     <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                    <img src="https://i.ibb.co/nLg531n/2.jpg" alt="" />
+                                        <img src="https://i.ibb.co/nLg531n/2.jpg" alt="" />
                                     </a>
                                     <p className='text-lg italic'>The sisters were the first contestants in Shark Tank history to receive investment offers from all five panel members.
                                         <br /> <br />
@@ -90,8 +90,8 @@ const KetoControlPro = () => {
                                     <h1 className='italic text-3xl font-semibold my-5'>THESE WERE MY RESULTS 30 LBS OF STOMACH FAT LOST IN JUST 1 MONTH:</h1>
                                     <p className='text-3xl mb-3'>Week 1</p>
                                     <div className='sm:flex gap-3'>
-                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                        <img src="https://i.ibb.co/wwtsQPq/W1.png" alt="" />
+                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                            <img src="https://i.ibb.co/wwtsQPq/W1.png" alt="" />
                                         </a>
                                         <p className='italic'>After 7 days on the Shark Tank <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies Weight Loss Supplements, I was in awe by how quick and dramatic the effects were. My spirits were up and I wasn't as hungry as usual. The appetite suppression was a welcomed side effect of the <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies™. I felt phenomenal and best part of all was that I didn't change a single thing about my daily routine or diet. Still no gym for me!</p>
                                     </div>
@@ -100,36 +100,36 @@ const KetoControlPro = () => {
                                         But I was still very skeptical! Many people say they lose a lot of ‘water weight' at the beginning of any cleanse or diet. I wanted to see what happened over the next few weeks before jumping to any conclusions.</p>
                                     <h6 className='text-3xl my-3 italic'>Week 2</h6>
                                     <div className='sm:flex gap-3 mb-2'>
-                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                        <img src="https://i.ibb.co/xsPmDBj/W2.png" alt="" />
+                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                            <img src="https://i.ibb.co/xsPmDBj/W2.png" alt="" />
                                         </a>
                                         <p className='italic text-lg'>After 14 days of using <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies I clearly had more energy and focus than ever before. The detoxifying components helped me sleep the entire night, every night I kid you not I was even burning fat in my sleep. I lost 7 pounds of belly fat, and began to see my abs coming back, something my husband obviously loved. After just 14 days, I felt very confident that these two products were the real deal.</p>
                                     </div>
                                     <h6 className='text-3xl my-3 italic'>Week 3</h6>
                                     <div className='sm:flex gap-3 mb-2'>
-                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                        <img src="https://i.ibb.co/Fx21mNh/W3.png" alt="" />
+                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                            <img src="https://i.ibb.co/Fx21mNh/W3.png" alt="" />
                                         </a>
                                         <p className='italic text-lg'>After 21 days, all my doubts were gone and I was officially a believer! I was down another 7 pounds. And I still have more bounce in my step. My apartment is immaculate from all the cleaning I've been doing. In the past, after a few weeks of other diet programs, I'd begin to run out of steam, but with <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies my energy levels didn't dip and were consistent throughout the day.</p>
                                     </div>
                                     <h6 className='text-3xl my-3 italic'>Week 4</h6>
                                     <div className='sm:flex gap-3 mb-2'>
-                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                        <img src="https://i.ibb.co/BGSz8Jz/W4.png" alt="" />
+                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                            <img src="https://i.ibb.co/BGSz8Jz/W4.png" alt="" />
                                         </a>
                                         <p className='italic text-lg'>After the fourth week, my final results were incredible. Look at the new me! I lost an unbelievable 31 pounds since starting I started using these Skinny Pills! Everyone at PIOP is kicking themselves for not having volunteered to be the guinea pig. Using the <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies in week 4, I lost an additional 11 pounds.</p>
                                     </div>
                                     <h5 className='italic text-3xl my-5'>CELEBRITIES LOVE <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies</h5>
                                     <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                    <img src="https://i.ibb.co/tPxxMKW/mm.jpg" alt="" />
+                                        <img src="https://i.ibb.co/tPxxMKW/mm.jpg" alt="" />
                                     </a>
                                     <p className='italic font-medium my-2'>“I've been using <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies as my weight loss supplement for months and I'm amazed at how I've been able to keep the weight off and not be hungry! I haven't felt this healthy since my 20's! - Melissa Mccarthy</p>
                                     <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                    <img src="https://i.ibb.co/6nXvPgK/dc.jpg" alt="" />
+                                        <img src="https://i.ibb.co/6nXvPgK/dc.jpg" alt="" />
                                     </a>
                                     <p className='italic font-medium my-2'>“I have a hectic schedule and I don't have a lot of time to devote to workout routines. That's why I love <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies™! Taking just one per day helped me get my body where I really felt comfortable - Drew Carey</p>
                                     <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                    <img src="https://i.ibb.co/27nN8Km/Jennifer-Hudson.jpg" alt="" />
+                                        <img src="https://i.ibb.co/27nN8Km/Jennifer-Hudson.jpg" alt="" />
                                     </a>
                                     <p className='italic font-medium my-2'>It's been six months since the American Idol alum started her weight-loss journey.Among many slimming pills, <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies is her only choice. In a March 2018 interview with Redbook, she revealed that she had lost a total of 80 pounds and had gone from a size 16 to a size 6. - Jennifer Hudson</p>
                                 </div>
@@ -149,13 +149,18 @@ const KetoControlPro = () => {
                                     <div className='w-full h-[1px] bg-blue-500'></div>
                                     <div className='bg-gray-300 !px-4 py-2 my-2'>
                                         <div className='flex gap-1 items-center'>
-                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                            <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" /></a>
+                                            <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                                <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" /></a>
                                             <h6 className='text-xl pt-2'>Step 1:</h6>
                                         </div>
                                         <p className='font-bold mt-2 text-sm'>CLICK HERE to Claim Your Bottle of <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies</p>
                                         <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                        <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" className='' />
+                                            <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" className='w-32 mx-auto' />
+                                        </a>
+                                        <p className='text-sm text-center my-3'>Bottles are limited. <br />
+                                            Expires on Tuesday, March 28, 2023</p>
+                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                            <img src="https://i.ibb.co/Vmmz3wZ/button2.png" alt="" className='mb-5' />
                                         </a>
                                     </div>
                                 </div>
@@ -163,7 +168,7 @@ const KetoControlPro = () => {
                                     <h2 className='text-xl uppercase mb-2'>Before & After</h2>
                                     <div className='w-full h-[2px] bg-blue-500'></div>
                                     <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                    <img src="https://i.ibb.co/QJWP37t/cb.png" alt="" className='mt-2' /></a>
+                                        <img src="https://i.ibb.co/QJWP37t/cb.png" alt="" className='mt-2' /></a>
                                     <p className='text-sm font-bold italic'>"I've been trying to lose the same 10 lbs for what feels like forever now. <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies got rid of it in only 2 weeks! Thanks so much!"</p>
                                     <p className='mt-1 font-bold italic'>Christina Butler,</p>
                                 </div>
@@ -179,13 +184,18 @@ const KetoControlPro = () => {
                                     <div className='w-full h-[2px] bg-blue-500'></div>
                                     <div className='bg-gray-300 px-4 py-2 my-2'>
                                         <div className='flex gap-1 items-center'>
-                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                            <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" /></a>
+                                            <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                                <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" /></a>
                                             <h6 className='text-xl pt-2'>Step 1:</h6>
                                         </div>
                                         <p className='font-bold mt-2 text-sm'>CLICK HERE to Claim Your Bottle of <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies</p>
                                         <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                        <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" className='' />
+                                            <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" className='w-32 mx-auto' />
+                                        </a>
+                                        <p className='text-sm text-center my-3'>Bottles are limited. <br />
+                                            Expires on Tuesday, March 28, 2023</p>
+                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                            <img src="https://i.ibb.co/Vmmz3wZ/button2.png" alt="" className='mb-5' />
                                         </a>
                                     </div>
                                 </div>
@@ -193,7 +203,7 @@ const KetoControlPro = () => {
                                     <h2 className='text-xl uppercase mb-2'>Before & After</h2>
                                     <div className='w-full h-[2px] bg-blue-500'></div>
                                     <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                    <img src="https://i.ibb.co/QJhVm0S/weight6.jpg" alt="" className='mt-2' />
+                                        <img src="https://i.ibb.co/QJhVm0S/weight6.jpg" alt="" className='mt-2' />
                                     </a>
                                     <p className='text-sm font-bold italic'>"I have been using <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies and I am incredibly impressed with the results! My belly is flatter and it is very apparent that my skin is firmer."</p>
                                     <p className='mt-1 font-bold italic'>Briana Smith</p>
@@ -210,7 +220,7 @@ const KetoControlPro = () => {
                                     <h2 className='text-xl uppercase mb-2'>Before & After</h2>
                                     <div className='w-[200px] h-[2px] bg-blue-500'></div>
                                     <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                    <img src="https://i.ibb.co/vJLzjR7/bt.jpg" alt="" className='mt-2' />
+                                        <img src="https://i.ibb.co/vJLzjR7/bt.jpg" alt="" className='mt-2' />
                                     </a>
                                     <p className='text-sm font-bold italic'>"As a mom of 2, I juggle work, kids, and all of life's other stresses on a daily basi. A friend of mine bought me <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies and I am incredibly impressed with the results! I couldn't believe when I started dropping the weight that same week!"</p>
                                     <p className='mt-1 font-bold italic'>Briana Taylor,</p>
@@ -225,7 +235,12 @@ const KetoControlPro = () => {
                                         </div>
                                         <p className='font-bold mt-2 text-sm'>CLICK HERE to Claim Your Bottle of <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies</p>
                                         <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                        <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" className='' />
+                                            <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" className='w-32 mx-auto' />
+                                        </a>
+                                        <p className='text-sm text-center my-3'>Bottles are limited. <br />
+                                            Expires on Tuesday, March 28, 2023</p>
+                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                            <img src="https://i.ibb.co/Vmmz3wZ/button2.png" alt="" className='mb-5' />
                                         </a>
                                     </div>
                                 </div>
@@ -240,8 +255,8 @@ const KetoControlPro = () => {
                             <div className='border border-gray-500 my-10 py-10 px-10'>
                                 <div className='limit gap-10'>
                                     <div>
-                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                        <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" />
+                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                            <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" />
                                         </a>
                                     </div>
                                     <div>
@@ -250,15 +265,15 @@ const KetoControlPro = () => {
                                             <h2 className='text-lg'>Step 1: <span className='underline font-semibold'>Limited Bottle Of <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies™</span></h2>
                                         </div>
                                         <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                        <img src="https://i.ibb.co/Vmmz3wZ/button2.png" alt="" className='my-1' />
+                                            <img src="https://i.ibb.co/Vmmz3wZ/button2.png" alt="" className='my-1' />
                                         </a>
                                         <p className='text-sm font-bold'>Take advantage of our exclusive link and enjoy Freeshipping!</p>
                                         <h1 className='text-2xl font-semibold mt-2'>Hurry! Only 2 Bottles Left. Claim Yours Now!</h1>
                                         <p className='text-sm font-bold my-2'>Offer Ends Once The Timer Hits Zero!
                                             <br />
                                             Big Discount(buy 3 get 2 free and buy 2 get 1 free)Sale Ends In: Wednesday, March 29, 2023</p>
-                                            <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                        <img src="https://i.ibb.co/Jt7ryZs/100-guarantee-seal-1-2.png" alt="" />
+                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                            <img src="https://i.ibb.co/Jt7ryZs/100-guarantee-seal-1-2.png" alt="" />
                                         </a>
                                     </div>
                                 </div>
