@@ -16,7 +16,7 @@ const KetoControlPro = () => {
 
                         <div className='flex gap-24 items-center'>
                             <a href="/"><img src="https://i.ibb.co/8cbCXGQ/mobile-logo.jpg" alt="" className='w-40' /></a>
-                            <ul className='uppercase flex gap-8 font-bold text-blue-500'>
+                            <ul className='uppercase flex gap-8 font-bold text-blue-500 sm:block hidden'>
                                 <li>Love</li>
                                 <li>celebs</li>
                                 <li>beauty</li>
@@ -31,7 +31,7 @@ const KetoControlPro = () => {
                         <div className='keto-body gap-10'>
                             <div>
                                 <div className='pb-10 border-double border-b-8 border-gray-300 mb-10'>
-                                    <h1 className='text-3xl !leading-normal'>Weight Loss Pill That Naturally Burns Fat Gets Biggest Deal In Shark Tank History</h1>
+                                    <h1 className='sm:text-3xl text-2xl !leading-normal'>Weight Loss Pill That Naturally Burns Fat Gets Biggest Deal In Shark Tank History</h1>
                                     <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/"><img src="https://i.ibb.co/xhvH25W/asseenin.jpg" alt="" /></a>
                                     <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/"><img src="https://i.ibb.co/9W3pxGh/Intro2.jpg" alt="" /></a>
                                     <h6 className='font-medium italic text-xl mt-3'> Wednesday, March 29, 2023 - It was the most watched episode in Shark Tank history when sisters Anna and Samantha Martin won over the Shark Tank panel.</h6>
@@ -245,7 +245,7 @@ const KetoControlPro = () => {
                                         </a>
                                     </div>
                                     <div>
-                                        <div className='flex'>
+                                        <div className='sm:flex'>
                                             <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" />
                                             <h2 className='text-lg'>Step 1: <span className='underline font-semibold'>Limited Bottle Of Go90 Keto+ACV Gummies™</span></h2>
                                         </div>
@@ -362,7 +362,7 @@ const KetoControlPro = () => {
                 </div>
                 <section>
                     <div className='timer'>
-                        <p className='max-w-[1100px] mx-auto text-2xl font-medium text-white text-center bg-green-700 py-1'><a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Exclusive Instagram Discount <span className='underline'>BE Slim Now</span></a></p>
+                        <p className='max-w-[1100px] mx-auto sm:text-2xl font-medium text-white text-center bg-green-700 py-1'><a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Exclusive Instagram Discount <span className='underline'>BE Slim Now</span></a></p>
                     </div>
                 </section>
             </div>
