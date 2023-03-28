@@ -11,23 +11,11 @@ const Rmx = () => {
                 <meta charSet="utf-8" />
                 <meta name="description" content="Welcome to the world of RMX Male Enhancement System" />
                 <link rel="icon" type="image/png" href="https://i.ibb.co/JQR0jdm/rm-icon.png" sizes="16x16" />
-                <title>RMX Product</title>
+                <title>Herbal Product</title>
             </Helmet>
             <div className='bg-white alpine'>
                 <div className='max-w-7xl mx-auto justify-center px-4 py-10'>
-                    {/* <div className='text-center font-bold text-4xl text-[#fff] bg-purple-500 sm:w-[900px] mx-auto'>
-                        <a href="/">08060380375</a> or
-                        <a href="/"> 08078440640</a> or
-                        <a href="/"> 08121652243</a>
-                    </div> */}
-                    {/* <div>
-                        <input
-                            className="border border-gray-400 p-2 rounded-lg w-full"
-                            type="text"
-                            value={text}
-                            onChange={(e) => setText(e.target.value)}
-                        />
-                    </div> */}
+                    
                     <div className='sm:text-6xl text-3xl  p-1 text-center mb-5 !leading-normal'>
                         <span className='text-red-700 font-bold'>Important Warning!</span> <br /><span className=' bg-yellow-300 px-1'>Don't Use The Product If Your Partner Can't Cope With Over 50 Minutes of Action.</span> 
                     </div>

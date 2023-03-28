@@ -4,6 +4,7 @@ import Home from './components/Home/Home';
 import Alpilean from './Pages/Alpilean/Alpilean';
 import AlpileanHome from './Pages/Alpilean/AlpileanHome';
 import AlpileanNew from './Pages/AlpileanNew/AlpileanNew';
+import KetoWightLoss from './Pages/Keto/KetoWightLoss';
 import RmxLander from './Pages/Rmx/RmxLander';
 import Disclaimer from './Pages/RmxPro/Disclaimer';
 import PrivacyPolicy from './Pages/RmxPro/PrivacyPolicy';
@@ -17,6 +18,7 @@ function App() {
         <Route path='/bloodpressure911' element={<Home />} />
         <Route path='/alpilean' element={<AlpileanHome />} />
         <Route path='/rmx' element={<RmxLander />} />
+        <Route path='/keto' element={<KetoWightLoss />} />
         <Route path='/read-more' element={<Rmx />} />
         <Route path='/disclaimer' element={<Disclaimer />} />
         <Route path='/terms-of-service' element={<Tos />} />

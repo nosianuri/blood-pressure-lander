@@ -8,7 +8,7 @@ const Disclaimer = () => {
                 <meta charSet="utf-8" />
                 <meta name="description" content="Welcome to the world of RMX Male Enhancement System" />
                 <link rel="icon" type="image/png" href="https://i.ibb.co/JQR0jdm/rm-icon.png" sizes="16x16" />
-                <title>RMX Product</title>
+                <title>Disclaimer | Herbal Product</title>
             </Helmet>
             <div className='bg-white alpine'>
                 <div className='max-w-7xl mx-auto justify-center px-4 py-10'>

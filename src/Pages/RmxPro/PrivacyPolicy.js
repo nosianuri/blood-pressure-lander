@@ -8,7 +8,7 @@ const PrivacyPolicy = () => {
                 <meta charSet="utf-8" />
                 <meta name="description" content="Welcome to the world of RMX Male Enhancement System" />
                 <link rel="icon" type="image/png" href="https://i.ibb.co/JQR0jdm/rm-icon.png" sizes="16x16" />
-                <title>RMX Product</title>
+                <title>Privacy Policy | Herbal Product</title>
             </Helmet>
             <div>
                 <div className='bg-white alpine'>
