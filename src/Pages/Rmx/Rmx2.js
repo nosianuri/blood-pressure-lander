@@ -21,7 +21,7 @@ const Rmx2 = () => {
                     <h5 className='sm:text-4xl text-2xl mb-5 font-bold !leading-normal indent-8'>✨Before Seeing the Product Read the Success Story from one of our <span className=' million'>Happiest Man!</span>✨</h5>
                     <p className='text-red-500 mb-5 font-bold'>[Insert a Copyright Free Single Male Happy Image Here]</p>
                     <div className='sm:flex items-center gap-5'>
-                        <div><img src="https://i.ibb.co/DGF2pyZ/caple-goal.png" alt="" className='w-96' /></div>
+                        <div><img src="https://i.ibb.co/K005BRf/man.jpg" alt="" className='w-96' /></div>
                         <div>
                             <p className='mb-2 text-lg font-bold indent-8'>34-year-old Paolo became famous because in just over ten days his pen*is increased in size from 13 cm to ... 23 cm. According to the owner of one of the most magnificent phalluses in the world, he never expected his method to have such an effect.</p>
                             <p className='mb-5 indent-8'>It happened. I am experiencing the best sex of my life. I gallop it once, two, three and then I stop counting. I finally got rid of the small pen*is complexes and regained my self-confidence.</p>
