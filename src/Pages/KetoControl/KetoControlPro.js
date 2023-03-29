@@ -16,7 +16,7 @@ const KetoControlPro = () => {
 
                         <div className='flex gap-24 items-center'>
                             <a href="/"><img src="https://i.ibb.co/8cbCXGQ/mobile-logo.jpg" alt="" className='w-40' /></a>
-                            <ul className='uppercase flex gap-8 font-bold text-blue-500 nav'>
+                            <ul className='uppercase flex gap-8 font-bold text-orange-500 nav'>
                                 <p>Love</p>
                                 <p>celebs</p>
                                 <p>beauty</p>
@@ -34,15 +34,15 @@ const KetoControlPro = () => {
                                     <h1 className='sm:text-3xl text-2xl !leading-normal'>Weight Loss Pill That Naturally Burns Fat Gets Biggest Deal In Shark Tank History</h1>
                                     <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/"><img src="https://i.ibb.co/xhvH25W/asseenin.jpg" alt="" /></a>
                                     <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/"><img src="https://i.ibb.co/9W3pxGh/Intro2.jpg" alt="" /></a>
-                                    <h6 className='font-medium italic text-xl mt-3'> Wednesday, March 29, 2023 - It was the most watched episode in Shark Tank history when sisters Anna and Samantha Martin won over the Shark Tank panel.</h6>
+                                    <h6 className='font-semibold italic text-lg mt-3'> Wednesday, March 29, 2023 - It was the most watched episode in Shark Tank history when sisters Anna and Samantha Martin won over the Shark Tank panel.</h6>
                                     <p className='text-sm mt-5'><span className='never'>N</span>
                                         ever before had the judging panel unanimously decided to each invest over a million dollars into a potential company.</p>
                                     <p className='text-sm my-5'>After buying a staggering 25% share in the sisters company, the Shark Tank panel have personally mentored the pair, helping them undergo re-branding and re-packing of their miracle product.
                                     </p>
                                     <p className='text-lg'><span className='text-sm'>Touting their discovery as</span> <span className='italic'>“a great step forward in weight loss history," the judges were quick to offer up their hard earned cash to back the entrepreneurial pair. “We were shocked. The most we were hoping for was some advice…we weren’t even sure that we would manage to get any investors,explained Samantha. After outstanding offers from each panel member, the sisters burst into tears.</span></p>
-                                    <p className='font-medium italic'>The judges were amazed that one product was able to do all of the following:
+                                    <p className='font-semibold italic mt-3 text-lg'>The judges were amazed that one product was able to do all of the following:
                                     </p>
-                                    <ul className='ul-article font-medium italic'>
+                                    <ul className='ul-article font-semibold italic text-lg'>
                                         <li> Stops Excess Fat Production </li>
                                         <li> Suppresses Your Appetite</li>
                                         <li> Increases Serotonin Creation For Emotional Eaters</li>
@@ -50,7 +50,7 @@ const KetoControlPro = () => {
                                         <li> Improves Sleep and Prevents Fatigue</li>
                                         <li> Made From 100% All Natural and Organic Ingredients  FDA Approved</li>
                                     </ul>
-                                    <p className='italic mb-1'>“It didn’t feel real. The fact that all these successful, business-minded people wanted to be apart of <span className='text-blue-500'> <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies</span> and what we were doing was very emotional!" explained Anna.</p>
+                                    <p className='italic mb-1'>“It didn’t feel real. The fact that all these successful, business-minded people wanted to be apart of <span className='text-blue-500'> <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> </span> and what we were doing was very emotional!" explained Anna.</p>
                                     <p className='italic text-lg my-3'>The pair are the first contestants in the show’s long duration to ever receive a standing ovation and offers of investment from all five panel members. The sisters said they celebrated the success with champagne and cake when the episode wrapped.</p>
                                     <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                         <img src="https://i.ibb.co/nLg531n/2.jpg" alt="" />
@@ -63,21 +63,21 @@ const KetoControlPro = () => {
                                         <br /> <br />
                                         The pair recently unveiled the product that netted them millions of dollars in investments and made it for sale across The US.
                                         <br /> <br />
-                                        “The product we displayed on the show have been rebranded into <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies. It’s the original formula, all we’ve done is change the name and the packaging," explained Samantha.
+                                        “The product we displayed on the show have been rebranded into <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> . It’s the original formula, all we’ve done is change the name and the packaging," explained Samantha.
                                         <br /> <br />
-                                        The sisters first launched the products for sale through their company website and say they sold out within 5 minutes.
+                                        The sisters first launched the products for sale through their <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">company website</a> and say they sold out within 5 minutes.
                                         <br /> <br />
                                         “We even made sure we had more product than we thought we could sell, but all of it sold out within five minutes!" exclaimed Samantha.
                                         <br /> <br />
-                                        While the Shark Tank investors are toasting to their smart business move, women across The US are flocking online to purchase <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies and say the results have been life-changing.</p>
-                                    <p className='italic text-lg'>Clinical using of the <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies™ have uncovered that women who used the Dietary Supplement were able to lose an average of 27 lbs in 1 month and with continued use keep the weight off.
+                                        While the Shark Tank investors are toasting to their smart business move, women across The US are flocking online to purchase <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  and say the results have been life-changing.</p>
+                                    <p className='italic text-lg'>Clinical using of the <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> ™ have uncovered that women who used the <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Dietary Supplement</a> were able to lose an average of 27 lbs in 1 month and with continued use keep the weight off.
                                         <br /> <br />
-                                        "<a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies™ is revolutionizing weight loss medicine," explained Barbara Corcoran from Shark Tank.
+                                        "<a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> ™ is revolutionizing weight loss medicine," explained Barbara Corcoran from Shark Tank.
                                         <br /> <br />
                                         After hearing such astonishing feedback regarding how effective this innovative new weight loss product was, we appointed our research department to conduct their own investigation into the Shark Tank weight loss pills.
                                         <br /> <br />
-                                        The packages of <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies were delivered within a few days and I was really excited to try this weight loss recipe. <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies has the ideal dosage of the purest forms of Garcinia available to consumers. That's exactly why its users experience zero negative side effects. I put together this report that details my results:</p>
-                                    <p className='text-lg italic'><a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies formula has been scientifically proven to:</p>
+                                        The packages of <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  were delivered within a few days and I was really excited to try this weight loss recipe. <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  has the ideal dosage of the purest forms of Garcinia available to consumers. That's exactly why its users experience zero negative side effects. I put together this report that details my results:</p>
+                                    <p className='text-lg italic'><a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  formula has been scientifically proven to:</p>
                                     <ul className='ul-article'>
                                         <li>Burn fat as primary source of energy</li>
                                         <li>Enhance energy and strength</li>
@@ -86,61 +86,61 @@ const KetoControlPro = () => {
                                         <li>Boost Adipocytes production of Leptins by 130% which cuts your appetite down</li>
                                         <li>Eliminate bad toxins that have built up over the years</li>
                                     </ul>
-                                    <p className='italic'>To test out the weight loss pills, I took one <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies™ pill before I went to sleep for 31 days.</p>
-                                    <h1 className='italic text-3xl font-semibold my-5'>THESE WERE MY RESULTS 30 LBS OF STOMACH FAT LOST IN JUST 1 MONTH:</h1>
-                                    <p className='text-3xl mb-3'>Week 1</p>
+                                    <p className='italic'>To test out the weight loss pills, I took one <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> ™ pill before I went to sleep for 31 days.</p>
+                                    <h1 className='italic sm:text-3xl text-xl font-semibold my-5'>THESE WERE MY RESULTS 30 LBS OF STOMACH FAT LOST IN JUST 1 MONTH:</h1>
+                                    <p className='sm:text-3xl text-xl mb-3'>Week 1</p>
                                     <div className='sm:flex gap-3'>
                                         <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                             <img src="https://i.ibb.co/wwtsQPq/W1.png" alt="" />
                                         </a>
-                                        <p className='italic'>After 7 days on the Shark Tank <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies Weight Loss Supplements, I was in awe by how quick and dramatic the effects were. My spirits were up and I wasn't as hungry as usual. The appetite suppression was a welcomed side effect of the <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies™. I felt phenomenal and best part of all was that I didn't change a single thing about my daily routine or diet. Still no gym for me!</p>
+                                        <p className='italic'>After 7 days on the <a className='font-bold text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Shark Tank Keto Control™ Weight Loss Supplements</a>, I was in awe by how quick and dramatic the effects were. My spirits were up and I wasn't as hungry as usual. The appetite suppression was a welcomed side effect of the <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> ™. I felt phenomenal and best part of all was that I didn't change a single thing about my daily routine or diet. Still no gym for me!</p>
                                     </div>
                                     <p className='italic'>On Day 7, I stepped on the electronic scale and used a caliper to find out my body fat. I had to double check because I couldn't believe it–I had lost 5 pounds of fat in my first week!
                                         <br />
                                         But I was still very skeptical! Many people say they lose a lot of ‘water weight' at the beginning of any cleanse or diet. I wanted to see what happened over the next few weeks before jumping to any conclusions.</p>
-                                    <h6 className='text-3xl my-3 italic'>Week 2</h6>
+                                    <h6 className='sm:text-3xl text-xl my-3 italic'>Week 2</h6>
                                     <div className='sm:flex gap-3 mb-2'>
                                         <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                             <img src="https://i.ibb.co/xsPmDBj/W2.png" alt="" />
                                         </a>
-                                        <p className='italic text-lg'>After 14 days of using <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies I clearly had more energy and focus than ever before. The detoxifying components helped me sleep the entire night, every night I kid you not I was even burning fat in my sleep. I lost 7 pounds of belly fat, and began to see my abs coming back, something my husband obviously loved. After just 14 days, I felt very confident that these two products were the real deal.</p>
+                                        <p className='italic text-lg'>After 14 days of using <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  I clearly had more energy and focus than ever before. The detoxifying components helped me sleep the entire night, every night I kid you not I was even burning fat in my sleep. I lost 7 pounds of belly fat, and began to see my abs coming back, something my husband obviously loved. After just 14 days, I felt very confident that these two products were the real deal.</p>
                                     </div>
-                                    <h6 className='text-3xl my-3 italic'>Week 3</h6>
+                                    <h6 className='sm:text-3xl text-xl my-3 italic'>Week 3</h6>
                                     <div className='sm:flex gap-3 mb-2'>
                                         <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                             <img src="https://i.ibb.co/Fx21mNh/W3.png" alt="" />
                                         </a>
-                                        <p className='italic text-lg'>After 21 days, all my doubts were gone and I was officially a believer! I was down another 7 pounds. And I still have more bounce in my step. My apartment is immaculate from all the cleaning I've been doing. In the past, after a few weeks of other diet programs, I'd begin to run out of steam, but with <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies my energy levels didn't dip and were consistent throughout the day.</p>
+                                        <p className='italic text-lg'>After 21 days, all my doubts were gone and I was officially a believer! I was down another 7 pounds. And I still have more bounce in my step. My apartment is immaculate from all the cleaning I've been doing. In the past, after a few weeks of other diet programs, I'd begin to run out of steam, but with <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  my energy levels didn't dip and were consistent throughout the day.</p>
                                     </div>
-                                    <h6 className='text-3xl my-3 italic'>Week 4</h6>
+                                    <h6 className='sm:text-3xl text-xl my-3 italic'>Week 4</h6>
                                     <div className='sm:flex gap-3 mb-2'>
                                         <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                             <img src="https://i.ibb.co/BGSz8Jz/W4.png" alt="" />
                                         </a>
-                                        <p className='italic text-lg'>After the fourth week, my final results were incredible. Look at the new me! I lost an unbelievable 31 pounds since starting I started using these Skinny Pills! Everyone at PIOP is kicking themselves for not having volunteered to be the guinea pig. Using the <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies in week 4, I lost an additional 11 pounds.</p>
+                                        <p className='italic text-lg'>After the fourth week, my final results were incredible. Look at the new me! I lost an unbelievable 31 pounds since starting I started using these Skinny Pills! Everyone at PIOP is kicking themselves for not having volunteered to be the guinea pig. Using the <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  in week 4, I lost an additional 11 pounds.</p>
                                     </div>
-                                    <h5 className='italic text-3xl my-5'>CELEBRITIES LOVE <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies</h5>
+                                    <h5 className='italic sm:text-3xl text-xl my-5'>CELEBRITIES LOVE <a className='font-bold  text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> </h5>
                                     <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                         <img src="https://i.ibb.co/tPxxMKW/mm.jpg" alt="" />
                                     </a>
-                                    <p className='italic font-medium my-2'>“I've been using <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies as my weight loss supplement for months and I'm amazed at how I've been able to keep the weight off and not be hungry! I haven't felt this healthy since my 20's! - Melissa Mccarthy</p>
+                                    <p className='italic font-medium my-2'>“I've been using <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  as my weight loss supplement for months and I'm amazed at how I've been able to keep the weight off and not be hungry! I haven't felt this healthy since my 20's! - Melissa Mccarthy</p>
                                     <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                         <img src="https://i.ibb.co/6nXvPgK/dc.jpg" alt="" />
                                     </a>
-                                    <p className='italic font-medium my-2'>“I have a hectic schedule and I don't have a lot of time to devote to workout routines. That's why I love <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies™! Taking just one per day helped me get my body where I really felt comfortable - Drew Carey</p>
+                                    <p className='italic font-medium my-2'>“I have a hectic schedule and I don't have a lot of time to devote to workout routines. That's why I love <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> ™! Taking just one per day helped me get my body where I really felt comfortable - Drew Carey</p>
                                     <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                         <img src="https://i.ibb.co/27nN8Km/Jennifer-Hudson.jpg" alt="" />
                                     </a>
-                                    <p className='italic font-medium my-2'>It's been six months since the American Idol alum started her weight-loss journey.Among many slimming pills, <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies is her only choice. In a March 2018 interview with Redbook, she revealed that she had lost a total of 80 pounds and had gone from a size 16 to a size 6. - Jennifer Hudson</p>
+                                    <p className='italic font-medium my-2'>It's been six months since the American Idol alum started her weight-loss journey.Among many slimming pills, <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  is her only choice. In a March 2018 interview with Redbook, she revealed that she had lost a total of 80 pounds and had gone from a size 16 to a size 6. - Jennifer Hudson</p>
                                 </div>
-                                <h5 className='text-center'> Will This Work For You?</h5>
+                                <h5 className='text-center sm:text-3xl text-2xl mb-3'> Will This Work For You?</h5>
                                 <p className='text-lg italic'>Using The sister's fat burner, I removed about 30 lbs of my unwanted fat and the test process was something of a "journey to self-discovery" for me! Here at Us Today's offices, everyone could see the difference and we were all proud of me for trying something new and being rewarded for it!
                                     <br /><br />
                                     There are countless diet gimmicks out there these days, and most of them are high in cost and low in giving you real results. So when we heard about the Shark's deal, we were skeptical could these products really be that much better than everything else on the market? Seeing my results first-hand in our scientific case study along with the Shark's always-valuable recommendation! turned us from skeptics into believers. We can't deny it: This stuff really works and Today News is happy to officially recommend it!
                                     <br /> <br />
                                     IMPORTANT! You won't find this offer for so big discount bottles anywhere else on the internet! Get yours now!
                                     <br /><br />
-                                    Biggest discount (buy 3 get 2 free and buy 2 get 1 free) <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies (available for a limited time while supplies last) can be claimed via the links below courtesy of The Shark Tank and exclusively for Us Today readers!
+                                    Biggest discount (buy 3 get 2 free and buy 2 get 1 free) <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  (available for a limited time while supplies last) can be claimed via the links below courtesy of The Shark Tank and exclusively for Us Today readers!
                                 </p>
                             </div>
                             <div>
@@ -153,7 +153,7 @@ const KetoControlPro = () => {
                                                 <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" /></a>
                                             <h6 className='text-xl pt-2'>Step 1:</h6>
                                         </div>
-                                        <p className='font-bold mt-2 text-sm'>CLICK HERE to Claim Your Bottle of <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies</p>
+                                        <p className='font-bold mt-2 text-sm'>CLICK HERE to Claim Your Bottle of <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> </p>
                                         <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                             <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" className='w-32 mx-auto' />
                                         </a>
@@ -169,7 +169,7 @@ const KetoControlPro = () => {
                                     <div className='w-full h-[2px] bg-blue-500'></div>
                                     <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                         <img src="https://i.ibb.co/QJWP37t/cb.png" alt="" className='mt-2' /></a>
-                                    <p className='text-sm font-bold italic'>"I've been trying to lose the same 10 lbs for what feels like forever now. <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies got rid of it in only 2 weeks! Thanks so much!"</p>
+                                    <p className='text-sm font-bold italic'>"I've been trying to lose the same 10 lbs for what feels like forever now. <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  got rid of it in only 2 weeks! Thanks so much!"</p>
                                     <p className='mt-1 font-bold italic'>Christina Butler,</p>
                                 </div>
                                 <div className='mb-8'>
@@ -188,7 +188,7 @@ const KetoControlPro = () => {
                                                 <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" /></a>
                                             <h6 className='text-xl pt-2'>Step 1:</h6>
                                         </div>
-                                        <p className='font-bold mt-2 text-sm'>CLICK HERE to Claim Your Bottle of <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies</p>
+                                        <p className='font-bold mt-2 text-sm'>CLICK HERE to Claim Your Bottle of <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> </p>
                                         <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                             <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" className='w-32 mx-auto' />
                                         </a>
@@ -205,7 +205,7 @@ const KetoControlPro = () => {
                                     <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                         <img src="https://i.ibb.co/QJhVm0S/weight6.jpg" alt="" className='mt-2' />
                                     </a>
-                                    <p className='text-sm font-bold italic'>"I have been using <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies and I am incredibly impressed with the results! My belly is flatter and it is very apparent that my skin is firmer."</p>
+                                    <p className='text-sm font-bold italic'>"I have been using <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  and I am incredibly impressed with the results! My belly is flatter and it is very apparent that my skin is firmer."</p>
                                     <p className='mt-1 font-bold italic'>Briana Smith</p>
                                 </div>
                                 <div className='mb-8'>
@@ -213,7 +213,7 @@ const KetoControlPro = () => {
                                     <div className='w-full h-[2px] bg-blue-500'></div>
                                     <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/"><img src="https://i.ibb.co/bFvqYtH/weight5.jpg" alt="" className='mt-2' />
                                     </a>
-                                    <p className='text-sm font-bold italic'>"Ive only been using <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies for 2 weeks, and I love it!!!!!!!! I have seen a visible change in my body, best of all my husband complimented me on my figure after just 2 weeks!!!!! He thought I had liposuction, and I didn't that is just fabulous!!!!!!!!"</p>
+                                    <p className='text-sm font-bold italic'>"Ive only been using <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  for 2 weeks, and I love it!!!!!!!! I have seen a visible change in my body, best of all my husband complimented me on my figure after just 2 weeks!!!!! He thought I had liposuction, and I didn't that is just fabulous!!!!!!!!"</p>
                                     <p className='mt-1 font-bold italic'>Carol Keeton</p>
                                 </div>
                                 <div className='mb-8'>
@@ -222,7 +222,7 @@ const KetoControlPro = () => {
                                     <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                         <img src="https://i.ibb.co/vJLzjR7/bt.jpg" alt="" className='mt-2' />
                                     </a>
-                                    <p className='text-sm font-bold italic'>"As a mom of 2, I juggle work, kids, and all of life's other stresses on a daily basi. A friend of mine bought me <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies and I am incredibly impressed with the results! I couldn't believe when I started dropping the weight that same week!"</p>
+                                    <p className='text-sm font-bold italic'>"As a mom of 2, I juggle work, kids, and all of life's other stresses on a daily basi. A friend of mine bought me <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  and I am incredibly impressed with the results! I couldn't believe when I started dropping the weight that same week!"</p>
                                     <p className='mt-1 font-bold italic'>Briana Taylor,</p>
                                 </div>
                                 <div className='mb-8'>
@@ -233,7 +233,7 @@ const KetoControlPro = () => {
                                             <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" />
                                             <h6 className='text-xl pt-2'>Step 1:</h6>
                                         </div>
-                                        <p className='font-bold mt-2 text-sm'>CLICK HERE to Claim Your Bottle of <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies</p>
+                                        <p className='font-bold mt-2 text-sm'>CLICK HERE to Claim Your Bottle of <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> </p>
                                         <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                             <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" className='w-32 mx-auto' />
                                         </a>
@@ -262,7 +262,7 @@ const KetoControlPro = () => {
                                     <div>
                                         <div className='sm:flex'>
                                             <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" />
-                                            <h2 className='text-lg'>Step 1: <span className='underline font-semibold'>Limited Bottle Of <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies™</span></h2>
+                                            <h2 className='text-lg'>Step 1: <span className='underline font-semibold'>Limited Bottle Of <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> ™</span></h2>
                                         </div>
                                         <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                                             <img src="https://i.ibb.co/Vmmz3wZ/button2.png" alt="" className='my-1' />
@@ -297,7 +297,7 @@ const KetoControlPro = () => {
                                         <img src="https://i.ibb.co/zfvSPzM/c1.jpg" alt="" className='review-img' />
                                         <div>
                                             <p className='font-medium text-blue-500'>Tanya Porquez</p>
-                                            <p className='mt-1 text-sm'>I saw this combo on CNN a while ago and I'm still using the combo. I've been using the products for about 6 wks <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> Keto+ACV Gummies came first, had to wait for the second supplement for an extra day). Honestly, this is unbelievable, all I have to say is WOW.</p>
+                                            <p className='mt-1 text-sm'>I saw this combo on CNN a while ago and I'm still using the combo. I've been using the products for about 6 wks <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  came first, had to wait for the second supplement for an extra day). Honestly, this is unbelievable, all I have to say is WOW.</p>
                                             <p className='text-sm text-blue-500 mt-1'>Reply. 6 . Like . <span className='underline text-gray-400'>13 minutes ago</span></p>
                                         </div>
                                     </div>
