@@ -19,7 +19,7 @@ const Rmx2 = () => {
                     </p>
 
                     <h5 className='sm:text-4xl text-2xl mb-5 font-bold !leading-normal indent-8'>✨Before Seeing the Product Read the Success Story from one of our <span className=' million'>Happiest Man!</span>✨</h5>
-                    <p className='text-red-500 mb-5 font-bold'>[Insert a Copyright Free Single Male Happy Image Here]</p>
+                    {/* <p className='text-red-500 mb-5 font-bold'>[Insert a Copyright Free Single Male Happy Image Here]</p> */}
                     <div className='sm:flex items-center gap-5'>
                         <div><img src="https://i.ibb.co/K005BRf/man.jpg" alt="" className='w-96' /></div>
                         <div>
