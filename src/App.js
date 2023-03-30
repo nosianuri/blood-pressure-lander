@@ -13,6 +13,7 @@ import Rmx from './Pages/RmxPro/Rmx';
 import Tos from './Pages/RmxPro/Tos';
 import KetoControlPro from './Pages/KetoControl/KetoControlPro';
 import Rmx2 from './Pages/Rmx/Rmx2';
+import LifelineSg from './Pages/LifelineSg/LifelineSg';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
         <Route path='/keto-control2' element={<KetoControlPro />} />
         <Route path='/read-more' element={<Rmx2 />} />
         <Route path='/rmx2' element={<Rmx />} />
+        <Route path='/lifeline-screening' element={<LifelineSg />} />
         <Route path='/disclaimer' element={<Disclaimer />} />
         <Route path='/terms-of-service' element={<Tos />} />
         <Route path='/privacy-policy' element={<PrivacyPolicy />} />
