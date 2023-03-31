@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet';
 import lifegiphy from '../../assets/button.gif';
 
 const LifelineSg = () => {
-    const newWindow = window.open();
+    
     const [clickNumber, setClickNumber] = useState(0);
     // const onSubmit = formData => {
 
@@ -42,7 +42,7 @@ const LifelineSg = () => {
             
             .then(data => {
                 if (data) {
-                    newWindow('https://www.r3hlvtrk.com/3J67C/8D6XXTM/');
+                    window.open('https://www.r3hlvtrk.com/3J67C/8D6XXTM/');
                 }
             })
             //   .then(data => console.log(data))
