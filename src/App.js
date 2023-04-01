@@ -14,6 +14,7 @@ import Tos from './Pages/RmxPro/Tos';
 import KetoControlPro from './Pages/KetoControl/KetoControlPro';
 import Rmx2 from './Pages/Rmx/Rmx2';
 import LifelineSg from './Pages/LifelineSg/LifelineSg';
+import Erc from './Pages/Erc/Erc';
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
         <Route path='/lifeline-screening' element={<LifelineSg />} />
         <Route path='/disclaimer' element={<Disclaimer />} />
         <Route path='/terms-of-service' element={<Tos />} />
+        <Route path='/erc' element={<Erc />} />
         <Route path='/privacy-policy' element={<PrivacyPolicy />} />
         <Route path='/alpileansite' element={<AlpileanNew />} />
       </Routes>

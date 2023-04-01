@@ -42,7 +42,7 @@ const LifelineSg = () => {
             
             .then(data => {
                 if (data) {
-                    window.open('http://llsa.go2cloud.org/aff_c?offer_id=775&aff_id=1570');
+                    window.open('https://www.r3hlvtrk.com/3J67C/8FKSNGM/');
                 }
             })
             //   .then(data => console.log(data))

@@ -1,0 +1,15 @@
+.erc-form{
+    float: left;
+    padding: 9px;
+    width: 95%;
+}
+.start-here{
+    background: url(https://i.ibb.co/8YHySr9/start-bg.png) no-repeat scroll center center transparent;
+    color: #FFFFFF;
+    font-family: "BebasNeueRegular";
+    font-size: 33px;
+    font-weight: normal;
+    margin-bottom: 7px;
+    padding: 12px 0 20px;
+    text-align: center;
+}
