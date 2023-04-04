@@ -10,6 +10,7 @@ const KetoWightLoss = () => {
                 <title>Keto Control™</title>
             </Helmet>
             <div className='bg-white alpine'>
+            <div className='text-center font-semibold text-2xl py-3 bg-orange-600 text-white'>Advertorial</div>
                 <div className='max-w-[1150px] mx-auto justify-center px-4 py-10'>
                     <h1 className='sm:text-7xl text-3xl'><span className='text-orange-600'>LOOK</span> FEMENINO</h1>
                     <p className='text-lg text-orange-600 mb-10'>MAGAZINE FOR WOMEN AND ABOUT WOMEN</p>

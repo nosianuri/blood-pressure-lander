@@ -57,7 +57,7 @@ const LifelineSg = () => {
                 <title>Life Screening</title>
             </Helmet>
             <div>
-                <div className='  h-screen'>
+                <div className=' h-screen'>
                     <div className='max-w-[950px] mx-auto justify-center  alpine shadow-lg '>
 
                         <div className='cursor-pointer' onClick={handleButtonClick}>
