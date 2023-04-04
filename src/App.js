@@ -15,11 +15,14 @@ import KetoControlPro from './Pages/KetoControl/KetoControlPro';
 import Rmx2 from './Pages/Rmx/Rmx2';
 import LifelineSg from './Pages/LifelineSg/LifelineSg';
 import Erc from './Pages/Erc/Erc';
+import Preloader from './Pages/Share/Preloader';
+import TrailPage from './components/TrailPage';
 
 function App() {
   return (
     <div>
       <Routes>
+        <Route path='/trial' element={<TrailPage />} />
         <Route path='/bloodpressure911' element={<Home />} />
         <Route path='/alpilean' element={<AlpileanHome />} />
         <Route path='/rmx' element={<RmxLander />} />

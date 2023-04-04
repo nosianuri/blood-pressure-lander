@@ -18,6 +18,7 @@ const Erc = () => {
                             <img src="https://i.ibb.co/9rrssYz/iapp-truste.png" alt="" className='w-72' />
                         </div>
                         {/* nav */}
+                        
                         <div className='max-w-[850px] mx-auto mt-5'>
                             <h1 className='text-center text-2xl font-semibold'>Get your Employee Retention Payment of up to $26,000 per Employee
                             </h1>
