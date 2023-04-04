@@ -10,7 +10,7 @@ const KetoWightLoss = () => {
                 <title>Keto Control™</title>
             </Helmet>
             <div className='bg-white alpine'>
-            <div className='text-center font-semibold text-2xl py-3 bg-orange-600 text-white'>Advertorial</div>
+                <div className='text-center font-semibold text-2xl py-3 bg-orange-600 text-white'>Advertorial</div>
                 <div className='max-w-[1150px] mx-auto justify-center px-4 py-10'>
                     <h1 className='sm:text-7xl text-3xl'><span className='text-orange-600'>LOOK</span> FEMENINO</h1>
                     <p className='text-lg text-orange-600 mb-10'>MAGAZINE FOR WOMEN AND ABOUT WOMEN</p>
@@ -19,207 +19,207 @@ const KetoWightLoss = () => {
                     <p className='text-4xl font-bold text-slate-500 my-1'>[detailed recipe]</p>
                     <div className='keto-body gap-10'>
                         <div>
-                        <h5 className='italic my-2'>Home - Health - How to lose weight - Safe recipe to lose weight guaranteed</h5>
-                    <p className=' my-2'>Tired of being overweight? <span className='font-bold'>Can't lose weight?</span> Or, as soon as you lose weight, do you gain weight again? Do you really want to wear your favorite dress, but you can't "wear it" and buying nice clothes is a <span className='font-bold'>big problem</span> for you?</p>
-                    <div className='sm:flex  gap-5 my-10'>
-                        <img src="https://i.ibb.co/RDSCCn9/woman.webp" alt="" className='mx-auto mb-5 sm:mb-0' />
-                        <div>
-                            <p className=''>“I am grateful to the people who called me fat and patronized me. If it weren't for them, I would still be just as fat!” says Marina Cortés, <span className='font-bold'>who has lost 26 kilograms</span>. On the way to a beautiful body, she tried many different diets, but the most effective was a very <span className='font-bold'>simple way</span>. Marina told in detail about this method, after which she does not gain extra weight even after weight loss. Here is her fascinating story ... <br /> <br />
-                                I've never been a fragile girl, but the extra weight didn't give me any particular reason to have complexes. Having met my future husband Samuel, I completely relaxed and only came to my senses when I got really fat.</p>
-                        </div>
-                    </div>
-
-                    <div className='font-bold my-5 border-2 border-white border-l-gray-500 px-5 text-2xl !leading-normal'>When I met Samuel, I completely relaxed, only coming to my senses when I got really fat.</div>
-                    <p className=''>Our relationship with Samuel is over 7 years old, and during this time we had two children. But until recently we had, as they say now, "guest marriage." Samuel lived in his apartment, worked a lot and only came to me. And then he was gone again.</p>
-                    <p className=' my-2'>From the beginning of our relationship, I constantly waited for him to make the "proposal" to me. That was my dream</p>
-                    <div className='font-bold my-5 border-2 border-white border-l-gray-500 px-5 text-2xl !leading-normal'>
-                        When will you make the "proposal" to me? That was my dream!
-                    </div>
-                    <p className=''>
-                        Having become pregnant for the first time, I thought that now we would definitely get married. But it didn't happen. Samuel, it just came and went. And I kept waiting for it... <br /><br />
-
-                        When my eldest son was born, Samuel and I were very happy. He adopted the child, surrounded me with all kinds of care, helped me in everything. I felt that he loved us, but with a special love of his own. <br /> <br />
-
-                        My little son turned 2 years old, we decided to go on vacation together for 2 weeks. Sea, sun and sand. I miss my vacation! <br /> <br />
-
-                        Egypt with a good hotel, a warm beach, food and all inclusive was the perfect option for us. <br /> <br />
-                    </p>
-
-                    <img src="https://i.ibb.co/Ssn975P/size-control.png" alt="" className='mx-auto w-72' />
-                    <p className='my-2 '>On the beach, I suddenly noticed that Samuel was looking at a girl for a long time. I didn't say anything, but I just decided to watch Samuel. At first I thought he fell in love at first sight. But a little later he changed the object of his attention and he also began to closely observe the other girl, then the third, and so on ad infinitum!</p>
-                    <p className=' '>She was angry! My son and I didn't seem to be close.</p>
-                    <div className='font-bold my-5 border-2 border-white border-l-gray-500 px-5 text-2xl !leading-normal'>He likes skinny girls!</div>
-                    <p className=' mb-2'>I never wanted to seem like a jealous fool, so having calmed down a bit, I began to analyze. And I quickly realized that all these girls, whom I had been observing for several days, had one thing in common: they are twice as skinny as me! She hit me like lightning, why, she only likes skinny girls! And maybe this is the reason for his behavior in our relationship?</p>
-                    <p className='mb-2 '>
-                        I even have a photo where she holds me in her arms, and looks at another "skinny", admires her:</p>
-                    <img src="https://i.ibb.co/dLpDfYR/couple.png" alt="" className='mx-auto w-72' />
-                    <p className='my-2 '>Samuel never told me that he didn't like my figure. He never asked me to lose weight, nothing happened. But there was no "proposal" that he was expecting.</p>
-                    <p className='mb-2 '>
-                        These thoughts did not give me rest, and I took advantage of them with a great all-inclusive. I ate there for like three every 2 weeks.
-                    </p>
-                    <p className='mb-2 '>
-                        Returning from vacation, I weighed myself and was stunned. I brought with me from sunny Egypt, together with a tan, 9.5 kg. I almost had a psychosis.
-                    </p>
-                    <p className='mb-2 '>
-                        I started studying on the internet about weight loss and a few weeks later I realized I was pregnant for the second time! The holidays were fruitful in the true sense of the word. It is clear that in this state she was not willing to lose weight ... <br /></p>
-                    <div className='font-bold my-5 border-2 border-white border-l-gray-500 px-5 text-2xl !leading-normal'>
-                        My thoughts were spinning constantly and Samuel didn't like me as a woman
-                    </div>
-                    <p className=' mb-2'>The idea was spinning in my head that Samuel didn't like me as a woman. I almost had an abortion. I am very glad that Samuel categorically forbade me to even think about it.
-                    </p>
-                    <p className=' mb-2'>
-                        So we had a second child, also a boy. And everything happened again. Samuel adopted the boy and constantly surrounded us with his love, care and attention. But only in those hours when he was with us. In my apartment, there was still not one of his things, except a toothbrush. I wanted to think only about the children, trying not to think about all this.
-                    </p>
-                    <p className=' mb-2'>
-                        After I stopped breastfeeding, I felt the thoughts of losing weight again start to overtake me. I could never forget that vacation, before my eyes was Samuel's look of desire for the skinny girls. In our relationship with him, nothing has changed yet. Right then he weighed a hated 88 kg. <br /></p>
-                    <div className='font-bold my-5 border-2 border-white border-l-gray-500 px-5 text-2xl !leading-normal'>So I weighed in the hated 88 kg. And I decided!</div>
-                    <p className=' mb-2'>And I decided! What I did not try: diets, probably 10 units, various fitness exercises, wraps, some saunas, special massages, etc. etc All this either did not help, or helped temporarily, I was losing weight and I did not have time to look back when he returned.
-                    </p>
-                    <p className=' mb-2'>
-                        And then I <span className='font-bold'>find myself in the store</span>, in the bakery section with, <span className='font-bold'>Olivia</span> who we were with in the hospital together, when I gave birth to my second. I barely recognized her, she was one and a half times bigger than me, and she became almost 3 times smaller than me, after she was born!
-                    </p>
-                    <p className=' mb-2'>
-                        - Incredible! – I was stunned, instead of greeting enthusiastically. I look at you and I don't believe what my eyes see! Olivia is that really you?
-                    </p>
-                    <p className=' mb-2'>
-                        - What, a little skinny, huh? - Smiling, she asked, buying cakes.
-                    </p>
-                    <p className=' mb-2'>
-                        And you also eat sweets?! How do you do it? As??? I tried and with sports, and diets, and all kinds of saunas, and what kind of crap I have not tried! Well, a maximum of 3 kg less per week and then suddenly I gain 7! I almost screamed then, I really remembered this moment, because people started to turn around.
-                    </p>
-                    <p className=' mb-2'>
-                        Marina, what diets, what saunas? What's wrong with you? In short, everything is clear with you. Let's go with me while my husband is at work, and the boy is in kindergarten, we have tea. I, with pies, and you, with boiling water, at the same time and we will talk, - Olivia exclaimed slyly, narrowing her eyes. <br /></p>
-                        <div className='font-bold my-5 border-2 border-white border-l-gray-500 px-5 text-2xl !leading-normal'>Marina, what diets, what saunas? What's wrong with you?</div>
-                    <p className=' mb-2'>I was incredibly intrigued and immediately agreed. In addition, the next day, Samuel went on a business trip for 2 weeks, so on the eve I devoted myself entirely to the children. And I could relax a little.
-                    </p>
-                    <p className=' mb-2'>
-                        <span className='font-bold'>Olivia lost 70 pounds</span> in just 3.5 months after she stopped breastfeeding. She didn't diet, she didn't starve, and she didn't go to the gym. She led her normal life, not limiting herself at all.
-                    </p>
-                    <p className=' mb-2'>
-                        Her <span className='font-bold'>body became slender, like a girl's</span>. Such a strong weight loss, oddly enough, <span className='font-bold'>did not leave a single stretch</span> mark on her skin. Then I still thought that my Samuel would now only eat her with his eyes.
-                    </p>
-                    <p className=' mb-2'>
-                        But I experienced the most powerful emotions after I learned how easily he did it. How easy and safe you <span className='font-bold'>can get rid of excess weight</span>. Her recipe of hers to lose weight surprised me!
-                    </p>
-                    <p className=' mb-2'>
-                        I remembered very well that she was trying to lose weight. It was horrible! I remembered my depressions in the context of diets, as we were constantly arguing with Samuel at the time. I remembered the collapse, when later I began to eat without stopping. And he hated me for it.
-                        <br />
-                        It was even a bit disappointing that I got through all this. It's a pity that all this was in vain, and I need to lose weight in a completely different way. But she wasn't too upset, because now she knew exactly what to do.
-                        <br />
-                        And now <span className='font-bold'>listen carefully</span> to what Olivia to <br /></p>
-                    <div className=' rounded-lg border-4 border-gray-400 px-4 py-2'>There are products from which one gets fat. They are known and loved by all. This is sugar, potatoes, cakes, rice, various types of fast food such as: hamburgers, cookies and fries. <span className='font-bold'>And there are other products with which you lose weight</span>. Few people know about them. But in their action they are much stronger than those who get fat. If you eat them, then in order to lose weight you do not need to give up the first products.
-                        <br /><br />
-                        The world's strongest weight loss products. <span className='font-bold'>Brown rice</span> is a natural fat burner. <span className='font-bold'>Pea protein</span> normalizes fat metabolism, improves the functioning of the whole organism, lowers the level of cholesterol in the blood. <span className='font-bold'>Spirulina extract</span> blocks the development of fat cells, a natural source of antioxidants. <span className='font-bold'>Natural cocoa</span> accelerates the oxidation of fat, suppresses cravings for sweets, fills with energy, prevents fat deposition in problem areas. <span className='font-bold'>Natural bran and cereals</span> suppress appetite, invigorate and fill you with energy.
-                        <br /> <br />
-                        Based on the composition, it is possible to understand why the effectiveness of the drug is so high. Your body does not need substances, but at the same time the active extracts constantly break down fats. <br /></div>
-                    <p className='my-2 '>Olivia showed me <a href='https://www.r3hlvtrk.com/3J67C/8BZ7TGG/' className='font-bold underline hover:no-underline text-orange-500'>Keto Control™</a>. It is a complex of natural components for weight loss, which strengthen the action of each other. The main thing is not to forget to take, then the result comes soon.</p>
-                        </div>
-
-                        <div>
-                                <div className='mb-8'>
-                                    <h5 className='text-xl mb-2'>Special Offer</h5>
-                                    <div className='w-full h-[1px] bg-blue-500'></div>
-                                    <div className='bg-gray-300 !px-4 py-2 my-2'>
-                                        <div className='flex gap-1 items-center'>
-                                            <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                                <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" /></a>
-                                            <h6 className='text-xl pt-2'>Step 1:</h6>
-                                        </div>
-                                        <p className='font-bold mt-2 text-sm'>CLICK HERE to Claim Your Bottle of <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> </p>
-                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                            <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" className='w-32 mx-auto' />
-                                        </a>
-                                        <p className='text-sm text-center my-3'>Bottles are limited. <br />
-                                            Expires on Tuesday, March 28, 2023</p>
-                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                            <img src="https://i.ibb.co/Vmmz3wZ/button2.png" alt="" className='mb-5' />
-                                        </a>
-                                    </div>
-                                </div>
-                                <div className='mb-8'>
-                                    <h2 className='text-xl uppercase mb-2'>Before & After</h2>
-                                    <div className='w-full h-[2px] bg-blue-500'></div>
-                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                        <img src="https://i.ibb.co/QJWP37t/cb.png" alt="" className='mt-2' /></a>
-                                    <p className='text-sm font-bold italic'>"I've been trying to lose the same 10 lbs for what feels like forever now. <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  got rid of it in only 2 weeks! Thanks so much!"</p>
-                                    <p className='mt-1 font-bold italic'>Christina Butler,</p>
-                                </div>
-                                <div className='mb-8'>
-                                    <h2 className='text-xl uppercase mb-2'>Before & After</h2>
-                                    <div className='w-full h-[2px] bg-blue-500'></div>
-                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/"><img src="https://i.ibb.co/85RYMVL/weight4.jpg" alt="" className='mt-2' /></a>
-                                    <p className='text-sm font-bold italic'>"Thank God I didn't go through with that tummy tuck... I got the same results, for less than a cup of coffee!"</p>
-                                    <p className='mt-1 font-bold italic'>Christina Novotney</p>
-                                </div>
-                                <div className='mb-8'>
-                                    <h5 className='text-xl mb-2'>Special Offer</h5>
-                                    <div className='w-full h-[2px] bg-blue-500'></div>
-                                    <div className='bg-gray-300 px-4 py-2 my-2'>
-                                        <div className='flex gap-1 items-center'>
-                                            <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                                <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" /></a>
-                                            <h6 className='text-xl pt-2'>Step 1:</h6>
-                                        </div>
-                                        <p className='font-bold mt-2 text-sm'>CLICK HERE to Claim Your Bottle of <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> </p>
-                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                            <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" className='w-32 mx-auto' />
-                                        </a>
-                                        <p className='text-sm text-center my-3'>Bottles are limited. <br />
-                                            Expires on Tuesday, March 28, 2023</p>
-                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                            <img src="https://i.ibb.co/Vmmz3wZ/button2.png" alt="" className='mb-5' />
-                                        </a>
-                                    </div>
-                                </div>
-                                <div className='mb-8'>
-                                    <h2 className='text-xl uppercase mb-2'>Before & After</h2>
-                                    <div className='w-full h-[2px] bg-blue-500'></div>
-                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                        <img src="https://i.ibb.co/QJhVm0S/weight6.jpg" alt="" className='mt-2' />
-                                    </a>
-                                    <p className='text-sm font-bold italic'>"I have been using <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  and I am incredibly impressed with the results! My belly is flatter and it is very apparent that my skin is firmer."</p>
-                                    <p className='mt-1 font-bold italic'>Briana Smith</p>
-                                </div>
-                                <div className='mb-8'>
-                                    <h2 className='text-xl uppercase mb-2'>Before & After</h2>
-                                    <div className='w-full h-[2px] bg-blue-500'></div>
-                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/"><img src="https://i.ibb.co/bFvqYtH/weight5.jpg" alt="" className='mt-2' />
-                                    </a>
-                                    <p className='text-sm font-bold italic'>"Ive only been using <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  for 2 weeks, and I love it!!!!!!!! I have seen a visible change in my body, best of all my husband complimented me on my figure after just 2 weeks!!!!! He thought I had liposuction, and I didn't that is just fabulous!!!!!!!!"</p>
-                                    <p className='mt-1 font-bold italic'>Carol Keeton</p>
-                                </div>
-                                <div className='mb-8'>
-                                    <h2 className='text-xl uppercase mb-2'>Before & After</h2>
-                                    <div className='w-[200px] h-[2px] bg-blue-500'></div>
-                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                        <img src="https://i.ibb.co/vJLzjR7/bt.jpg" alt="" className='mt-2' />
-                                    </a>
-                                    <p className='text-sm font-bold italic'>"As a mom of 2, I juggle work, kids, and all of life's other stresses on a daily basi. A friend of mine bought me <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  and I am incredibly impressed with the results! I couldn't believe when I started dropping the weight that same week!"</p>
-                                    <p className='mt-1 font-bold italic'>Briana Taylor,</p>
-                                </div>
-                                <div className='mb-8'>
-                                    <h5 className='text-xl mb-2'>Special Offer</h5>
-                                    <div className='w-full h-[2px] bg-blue-500'></div>
-                                    <div className='bg-gray-300 px-4 py-2 my-2'>
-                                        <div className='flex gap-1 items-center'>
-                                            <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" />
-                                            <h6 className='text-xl pt-2'>Step 1:</h6>
-                                        </div>
-                                        <p className='font-bold mt-2 text-sm'>CLICK HERE to Claim Your Bottle of <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> </p>
-                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                            <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" className='w-32 mx-auto' />
-                                        </a>
-                                        <p className='text-sm text-center my-3'>Bottles are limited. <br />
-                                            Expires on Tuesday, March 28, 2023</p>
-                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
-                                            <img src="https://i.ibb.co/Vmmz3wZ/button2.png" alt="" className='mb-5' />
-                                        </a>
-                                    </div>
+                            <h5 className='italic my-2'>Home - Health - How to lose weight - Safe recipe to lose weight guaranteed</h5>
+                            <p className=' my-2'>Tired of being overweight? <span className='font-bold'>Can't lose weight?</span> Or, as soon as you lose weight, do you gain weight again? Do you really want to wear your favorite dress, but you can't "wear it" and buying nice clothes is a <span className='font-bold'>big problem</span> for you?</p>
+                            <div className='sm:flex  gap-5 my-10'>
+                                <img src="https://i.ibb.co/RDSCCn9/woman.webp" alt="" className='mx-auto mb-5 sm:mb-0' />
+                                <div>
+                                    <p className=''>“I am grateful to the people who called me fat and patronized me. If it weren't for them, I would still be just as fat!” says Marina Cortés, <span className='font-bold'>who has lost 26 kilograms</span>. On the way to a beautiful body, she tried many different diets, but the most effective was a very <span className='font-bold'>simple way</span>. Marina told in detail about this method, after which she does not gain extra weight even after weight loss. Here is her fascinating story ... <br /> <br />
+                                        I've never been a fragile girl, but the extra weight didn't give me any particular reason to have complexes. Having met my future husband Samuel, I completely relaxed and only came to my senses when I got really fat.</p>
                                 </div>
                             </div>
+
+                            <div className='font-bold my-5 border-2 border-white border-l-gray-500 px-5 text-2xl !leading-normal'>When I met Samuel, I completely relaxed, only coming to my senses when I got really fat.</div>
+                            <p className=''>Our relationship with Samuel is over 7 years old, and during this time we had two children. But until recently we had, as they say now, "guest marriage." Samuel lived in his apartment, worked a lot and only came to me. And then he was gone again.</p>
+                            <p className=' my-2'>From the beginning of our relationship, I constantly waited for him to make the "proposal" to me. That was my dream</p>
+                            <div className='font-bold my-5 border-2 border-white border-l-gray-500 px-5 text-2xl !leading-normal'>
+                                When will you make the "proposal" to me? That was my dream!
+                            </div>
+                            <p className=''>
+                                Having become pregnant for the first time, I thought that now we would definitely get married. But it didn't happen. Samuel, it just came and went. And I kept waiting for it... <br /><br />
+
+                                When my eldest son was born, Samuel and I were very happy. He adopted the child, surrounded me with all kinds of care, helped me in everything. I felt that he loved us, but with a special love of his own. <br /> <br />
+
+                                My little son turned 2 years old, we decided to go on vacation together for 2 weeks. Sea, sun and sand. I miss my vacation! <br /> <br />
+
+                                Egypt with a good hotel, a warm beach, food and all inclusive was the perfect option for us. <br /> <br />
+                            </p>
+
+                            <img src="https://i.ibb.co/Ssn975P/size-control.png" alt="" className='mx-auto w-72' />
+                            <p className='my-2 '>On the beach, I suddenly noticed that Samuel was looking at a girl for a long time. I didn't say anything, but I just decided to watch Samuel. At first I thought he fell in love at first sight. But a little later he changed the object of his attention and he also began to closely observe the other girl, then the third, and so on ad infinitum!</p>
+                            <p className=' '>She was angry! My son and I didn't seem to be close.</p>
+                            <div className='font-bold my-5 border-2 border-white border-l-gray-500 px-5 text-2xl !leading-normal'>He likes skinny girls!</div>
+                            <p className=' mb-2'>I never wanted to seem like a jealous fool, so having calmed down a bit, I began to analyze. And I quickly realized that all these girls, whom I had been observing for several days, had one thing in common: they are twice as skinny as me! She hit me like lightning, why, she only likes skinny girls! And maybe this is the reason for his behavior in our relationship?</p>
+                            <p className='mb-2 '>
+                                I even have a photo where she holds me in her arms, and looks at another "skinny", admires her:</p>
+                            <img src="https://i.ibb.co/dLpDfYR/couple.png" alt="" className='mx-auto w-72' />
+                            <p className='my-2 '>Samuel never told me that he didn't like my figure. He never asked me to lose weight, nothing happened. But there was no "proposal" that he was expecting.</p>
+                            <p className='mb-2 '>
+                                These thoughts did not give me rest, and I took advantage of them with a great all-inclusive. I ate there for like three every 2 weeks.
+                            </p>
+                            <p className='mb-2 '>
+                                Returning from vacation, I weighed myself and was stunned. I brought with me from sunny Egypt, together with a tan, 9.5 kg. I almost had a psychosis.
+                            </p>
+                            <p className='mb-2 '>
+                                I started studying on the internet about weight loss and a few weeks later I realized I was pregnant for the second time! The holidays were fruitful in the true sense of the word. It is clear that in this state she was not willing to lose weight ... <br /></p>
+                            <div className='font-bold my-5 border-2 border-white border-l-gray-500 px-5 text-2xl !leading-normal'>
+                                My thoughts were spinning constantly and Samuel didn't like me as a woman
+                            </div>
+                            <p className=' mb-2'>The idea was spinning in my head that Samuel didn't like me as a woman. I almost had an abortion. I am very glad that Samuel categorically forbade me to even think about it.
+                            </p>
+                            <p className=' mb-2'>
+                                So we had a second child, also a boy. And everything happened again. Samuel adopted the boy and constantly surrounded us with his love, care and attention. But only in those hours when he was with us. In my apartment, there was still not one of his things, except a toothbrush. I wanted to think only about the children, trying not to think about all this.
+                            </p>
+                            <p className=' mb-2'>
+                                After I stopped breastfeeding, I felt the thoughts of losing weight again start to overtake me. I could never forget that vacation, before my eyes was Samuel's look of desire for the skinny girls. In our relationship with him, nothing has changed yet. Right then he weighed a hated 88 kg. <br /></p>
+                            <div className='font-bold my-5 border-2 border-white border-l-gray-500 px-5 text-2xl !leading-normal'>So I weighed in the hated 88 kg. And I decided!</div>
+                            <p className=' mb-2'>And I decided! What I did not try: diets, probably 10 units, various fitness exercises, wraps, some saunas, special massages, etc. etc All this either did not help, or helped temporarily, I was losing weight and I did not have time to look back when he returned.
+                            </p>
+                            <p className=' mb-2'>
+                                And then I <span className='font-bold'>find myself in the store</span>, in the bakery section with, <span className='font-bold'>Olivia</span> who we were with in the hospital together, when I gave birth to my second. I barely recognized her, she was one and a half times bigger than me, and she became almost 3 times smaller than me, after she was born!
+                            </p>
+                            <p className=' mb-2'>
+                                - Incredible! – I was stunned, instead of greeting enthusiastically. I look at you and I don't believe what my eyes see! Olivia is that really you?
+                            </p>
+                            <p className=' mb-2'>
+                                - What, a little skinny, huh? - Smiling, she asked, buying cakes.
+                            </p>
+                            <p className=' mb-2'>
+                                And you also eat sweets?! How do you do it? As??? I tried and with sports, and diets, and all kinds of saunas, and what kind of crap I have not tried! Well, a maximum of 3 kg less per week and then suddenly I gain 7! I almost screamed then, I really remembered this moment, because people started to turn around.
+                            </p>
+                            <p className=' mb-2'>
+                                Marina, what diets, what saunas? What's wrong with you? In short, everything is clear with you. Let's go with me while my husband is at work, and the boy is in kindergarten, we have tea. I, with pies, and you, with boiling water, at the same time and we will talk, - Olivia exclaimed slyly, narrowing her eyes. <br /></p>
+                            <div className='font-bold my-5 border-2 border-white border-l-gray-500 px-5 text-2xl !leading-normal'>Marina, what diets, what saunas? What's wrong with you?</div>
+                            <p className=' mb-2'>I was incredibly intrigued and immediately agreed. In addition, the next day, Samuel went on a business trip for 2 weeks, so on the eve I devoted myself entirely to the children. And I could relax a little.
+                            </p>
+                            <p className=' mb-2'>
+                                <span className='font-bold'>Olivia lost 70 pounds</span> in just 3.5 months after she stopped breastfeeding. She didn't diet, she didn't starve, and she didn't go to the gym. She led her normal life, not limiting herself at all.
+                            </p>
+                            <p className=' mb-2'>
+                                Her <span className='font-bold'>body became slender, like a girl's</span>. Such a strong weight loss, oddly enough, <span className='font-bold'>did not leave a single stretch</span> mark on her skin. Then I still thought that my Samuel would now only eat her with his eyes.
+                            </p>
+                            <p className=' mb-2'>
+                                But I experienced the most powerful emotions after I learned how easily he did it. How easy and safe you <span className='font-bold'>can get rid of excess weight</span>. Her recipe of hers to lose weight surprised me!
+                            </p>
+                            <p className=' mb-2'>
+                                I remembered very well that she was trying to lose weight. It was horrible! I remembered my depressions in the context of diets, as we were constantly arguing with Samuel at the time. I remembered the collapse, when later I began to eat without stopping. And he hated me for it.
+                                <br />
+                                It was even a bit disappointing that I got through all this. It's a pity that all this was in vain, and I need to lose weight in a completely different way. But she wasn't too upset, because now she knew exactly what to do.
+                                <br />
+                                And now <span className='font-bold'>listen carefully</span> to what Olivia to <br /></p>
+                            <div className=' rounded-lg border-4 border-gray-400 px-4 py-2'>There are products from which one gets fat. They are known and loved by all. This is sugar, potatoes, cakes, rice, various types of fast food such as: hamburgers, cookies and fries. <span className='font-bold'>And there are other products with which you lose weight</span>. Few people know about them. But in their action they are much stronger than those who get fat. If you eat them, then in order to lose weight you do not need to give up the first products.
+                                <br /><br />
+                                The world's strongest weight loss products. <span className='font-bold'>Brown rice</span> is a natural fat burner. <span className='font-bold'>Pea protein</span> normalizes fat metabolism, improves the functioning of the whole organism, lowers the level of cholesterol in the blood. <span className='font-bold'>Spirulina extract</span> blocks the development of fat cells, a natural source of antioxidants. <span className='font-bold'>Natural cocoa</span> accelerates the oxidation of fat, suppresses cravings for sweets, fills with energy, prevents fat deposition in problem areas. <span className='font-bold'>Natural bran and cereals</span> suppress appetite, invigorate and fill you with energy.
+                                <br /> <br />
+                                Based on the composition, it is possible to understand why the effectiveness of the drug is so high. Your body does not need substances, but at the same time the active extracts constantly break down fats. <br /></div>
+                            <p className='my-2 '>Olivia showed me <a href='https://www.r3hlvtrk.com/3J67C/8BZ7TGG/' className='font-bold underline hover:no-underline text-orange-500'>Keto Control™</a>. It is a complex of natural components for weight loss, which strengthen the action of each other. The main thing is not to forget to take, then the result comes soon.</p>
+                        </div>
+
+                        <div>
+                            <div className='mb-8'>
+                                <h5 className='text-xl mb-2'>Special Offer</h5>
+                                <div className='w-full h-[1px] bg-blue-500'></div>
+                                <div className='bg-gray-300 !px-4 py-2 my-2'>
+                                    <div className='flex gap-1 items-center'>
+                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                            <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" /></a>
+                                        <h6 className='text-xl pt-2'>Step 1:</h6>
+                                    </div>
+                                    <p className='font-bold mt-2 text-sm'>CLICK HERE to Claim Your Bottle of <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> </p>
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                        <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" className='w-32 mx-auto' />
+                                    </a>
+                                    <p className='text-sm text-center my-3'>Bottles are limited. <br />
+                                        Expires on Tuesday, March 28, 2023</p>
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                        <img src="https://i.ibb.co/Vmmz3wZ/button2.png" alt="" className='mb-5' />
+                                    </a>
+                                </div>
+                            </div>
+                            <div className='mb-8'>
+                                <h2 className='text-xl uppercase mb-2'>Before & After</h2>
+                                <div className='w-full h-[2px] bg-blue-500'></div>
+                                <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                    <img src="https://i.ibb.co/QJWP37t/cb.png" alt="" className='mt-2' /></a>
+                                <p className='text-sm font-bold italic'>"I've been trying to lose the same 10 lbs for what feels like forever now. <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  got rid of it in only 2 weeks! Thanks so much!"</p>
+                                <p className='mt-1 font-bold italic'>Christina Butler,</p>
+                            </div>
+                            <div className='mb-8'>
+                                <h2 className='text-xl uppercase mb-2'>Before & After</h2>
+                                <div className='w-full h-[2px] bg-blue-500'></div>
+                                <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/"><img src="https://i.ibb.co/85RYMVL/weight4.jpg" alt="" className='mt-2' /></a>
+                                <p className='text-sm font-bold italic'>"Thank God I didn't go through with that tummy tuck... I got the same results, for less than a cup of coffee!"</p>
+                                <p className='mt-1 font-bold italic'>Christina Novotney</p>
+                            </div>
+                            <div className='mb-8'>
+                                <h5 className='text-xl mb-2'>Special Offer</h5>
+                                <div className='w-full h-[2px] bg-blue-500'></div>
+                                <div className='bg-gray-300 px-4 py-2 my-2'>
+                                    <div className='flex gap-1 items-center'>
+                                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                            <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" /></a>
+                                        <h6 className='text-xl pt-2'>Step 1:</h6>
+                                    </div>
+                                    <p className='font-bold mt-2 text-sm'>CLICK HERE to Claim Your Bottle of <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> </p>
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                        <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" className='w-32 mx-auto' />
+                                    </a>
+                                    <p className='text-sm text-center my-3'>Bottles are limited. <br />
+                                        Expires on Tuesday, March 28, 2023</p>
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                        <img src="https://i.ibb.co/Vmmz3wZ/button2.png" alt="" className='mb-5' />
+                                    </a>
+                                </div>
+                            </div>
+                            <div className='mb-8'>
+                                <h2 className='text-xl uppercase mb-2'>Before & After</h2>
+                                <div className='w-full h-[2px] bg-blue-500'></div>
+                                <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                    <img src="https://i.ibb.co/QJhVm0S/weight6.jpg" alt="" className='mt-2' />
+                                </a>
+                                <p className='text-sm font-bold italic'>"I have been using <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  and I am incredibly impressed with the results! My belly is flatter and it is very apparent that my skin is firmer."</p>
+                                <p className='mt-1 font-bold italic'>Briana Smith</p>
+                            </div>
+                            <div className='mb-8'>
+                                <h2 className='text-xl uppercase mb-2'>Before & After</h2>
+                                <div className='w-full h-[2px] bg-blue-500'></div>
+                                <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/"><img src="https://i.ibb.co/bFvqYtH/weight5.jpg" alt="" className='mt-2' />
+                                </a>
+                                <p className='text-sm font-bold italic'>"Ive only been using <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  for 2 weeks, and I love it!!!!!!!! I have seen a visible change in my body, best of all my husband complimented me on my figure after just 2 weeks!!!!! He thought I had liposuction, and I didn't that is just fabulous!!!!!!!!"</p>
+                                <p className='mt-1 font-bold italic'>Carol Keeton</p>
+                            </div>
+                            <div className='mb-8'>
+                                <h2 className='text-xl uppercase mb-2'>Before & After</h2>
+                                <div className='w-[200px] h-[2px] bg-blue-500'></div>
+                                <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                    <img src="https://i.ibb.co/vJLzjR7/bt.jpg" alt="" className='mt-2' />
+                                </a>
+                                <p className='text-sm font-bold italic'>"As a mom of 2, I juggle work, kids, and all of life's other stresses on a daily basi. A friend of mine bought me <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  and I am incredibly impressed with the results! I couldn't believe when I started dropping the weight that same week!"</p>
+                                <p className='mt-1 font-bold italic'>Briana Taylor,</p>
+                            </div>
+                            <div className='mb-8'>
+                                <h5 className='text-xl mb-2'>Special Offer</h5>
+                                <div className='w-full h-[2px] bg-blue-500'></div>
+                                <div className='bg-gray-300 px-4 py-2 my-2'>
+                                    <div className='flex gap-1 items-center'>
+                                        <img src="https://i.ibb.co/rKjvVK4/checkmark.png" alt="" />
+                                        <h6 className='text-xl pt-2'>Step 1:</h6>
+                                    </div>
+                                    <p className='font-bold mt-2 text-sm'>CLICK HERE to Claim Your Bottle of <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> </p>
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                        <img src="https://i.ibb.co/gdvnVyr/keto-prd.png" alt="" className='w-32 mx-auto' />
+                                    </a>
+                                    <p className='text-sm text-center my-3'>Bottles are limited. <br />
+                                        Expires on Tuesday, March 28, 2023</p>
+                                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
+                                        <img src="https://i.ibb.co/Vmmz3wZ/button2.png" alt="" className='mb-5' />
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                   
-                    
+
+
                     <div className='font-bold my-5 border-2 border-white border-l-gray-500 px-5 text-2xl !leading-normal'>All that is needed is to prepare the coffee and use it according to the recommendations. And that's it!</div>
                     <p>All that is needed is to prepare the coffee and apply it according to the recommendations. And that's it! This is the whole recipe! How about?
                         <br /> <br />
@@ -336,13 +336,13 @@ const KetoWightLoss = () => {
                         When I heard Olivia, I also thought at first that this doesn't happen often. I still tried her recipe, this <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>, because we are not told everything beforehand. And he could have simply smiled skeptically and moved on. And then nothing would have changed! Besides, I wouldn't even know that I missed my chance...
                         <br /> <br />
                         For those who are very adamant, really decided to become happy, beautiful, attractive and uncontrollably desired, I will do the same as Olivia did for me. I'll show you where you can find the website of the manufacturer <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>, which she talked about. Just <span className='font-bold'>click the button</span> that says, "GO TO MANUFACTURER'S SITE" below and it will open. Everything else is in your own hands. <br /></p>
-                        <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/"><img src="https://i.ibb.co/hBYVG7C/keto-product-img.png" alt="" className='mx-auto ' /></a>
+                    <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/"><img src="https://i.ibb.co/hBYVG7C/keto-product-img.png" alt="" className='mx-auto ' /></a>
                     <div className='text-center my-10'>
                         <a href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">
                             <button className='discover_button'>GO TO THE MANUFACTURER'S SITE</button>
                         </a>
                     </div>
-                    
+
                     <div>
                         <div className='flex gap-5 border border-white border-b-gray-300 px-1 py-5'>
                             <img src="https://i.ibb.co/M6Yz8cQ/maria.webp" alt="" className='review-img' />
@@ -465,10 +465,33 @@ const KetoWightLoss = () => {
                             </a>
                         </div>
 
-                        <footer>
-                            <p className='text-slate-500'>2023 . Woman look. All rights reserved.</p>
-                        </footer>
+
                     </div>
+                </div>
+                <div className='bg-orange-600 text-white py-5'>
+                    <div className='max-w-7xl mx-auto px-4 py-2 text-xs border border-dashed border-[#ffffff] mt-5'>
+                      <p><span className='font-semibold underline'>Disclaimer:</span> The above is an advertorial review of the Keto Control weight loss product, created by Offershoptoday.com. This content is sponsored and created by Offershoptoday.com, and the views expressed within this article are not endorsed by or representative of the views of its affiliates.</p>  
+                        <p className='my-1'>At Offershoptoday.com, we're dedicated to providing our readers with accurate and informative reviews of the latest health and wellness products. In this article, we're taking a closer look at Keto Control, a weight loss supplement that's been generating a lot of buzz lately.</p>
+                        
+                        <p>Keto Control is a dietary supplement that claims to promote weight loss by inducing ketosis, a metabolic state in which the body burns fat for energy instead of carbohydrates. According to the manufacturer, the supplement is made with natural ingredients that work together to help the body enter ketosis more quickly and easily.</p>
+                        
+                        <p className='my-1'>While there is some scientific evidence to support the idea that a ketogenic diet can lead to weight loss, the long-term effects of such a diet are not fully understood. It's also important to note that individual results may vary, and that a healthy diet and regular exercise are still key components of any successful weight loss program.</p>
+                        
+                        <p>Before taking any new supplement, it's important to talk to your doctor to make sure it's right for you. Additionally, it's important to follow the dosage instructions carefully and to stop using the product if you experience any adverse reactions.</p>
+                        
+                        <p className='my-1'>At Offershoptoday.com, we strive to provide our readers with accurate and unbiased information about the products we review. However, it's important to keep in mind that our reviews are based on our own experiences and opinions, and that individual results may vary.</p>
+                        
+                        <p>If you're interested in trying Keto Control for yourself, we recommend that you visit the manufacturer's website to learn more and place your order. As with any new supplement, it's important to do your research and talk to your doctor before trying it out.</p>
+                        
+                    </div>
+                    <footer className='mt-5'>
+                        <div className='sm:flex justify-between max-w-[900px] mx-auto my-5 px-3'>
+                            <div>Copyright © 2023 <span className='text-gray-800'>OfferShopToday</span>. All rights reserved.</div>
+                            <div>
+                                <a className='hover:text-gray-800' href="/terms-of-service">Terms and Conditions</a> | <a className='hover:text-gray-800' href="/privacy-policy">Privacy Policy</a>
+                            </div>
+                        </div>
+                    </footer>
                 </div>
             </div>
         </>
