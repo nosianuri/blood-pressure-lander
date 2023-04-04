@@ -27,8 +27,8 @@ function App() {
         <Route path='/alpilean' element={<AlpileanHome />} />
         <Route path='/rmx' element={<RmxLander />} />
         <Route path='/green-coffee' element={<KetoWightLoss />} />
-        <Route path='/keto-control' element={<KetoControl />} />
-        <Route path='/keto-control2' element={<KetoControlPro />} />
+        <Route path='/keto-control' element={<KetoControlPro />} />
+        <Route path='/keto-control2' element={<KetoControl />} />
         <Route path='/read-more' element={<Rmx2 />} />
         <Route path='/rmx2' element={<Rmx />} />
         <Route path='/lifeline-screening' element={<LifelineSg />} />
