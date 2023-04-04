@@ -62,7 +62,7 @@ const LifelineSg = () => {
 
                         <div className='cursor-pointer' onClick={handleButtonClick}>
                             <div className='bg-[#145fab]  mb-5'> <p className='text-center text-2xl text-[#fff] py-2'>Advertorial</p></div>
-                            <img src="https://i.ibb.co/HG4BQJC/llc-logo.webp" alt="" className='mx-auto' />
+                            {/* <img src="https://i.ibb.co/HG4BQJC/llc-logo.webp" alt="" className='mx-auto' /> */}
                             <div className='px-2'>
                                 <h1 className='font-bold mt-5 sm:text-5xl text-2xl !leading-normal text-center text-red-800'>Knowledge is Power 💪</h1>
                                 <h1 className='max-w-[850px] mx-auto font-bold mb-5 sm:text-5xl text-2xl !leading-normal text-center text-[#033F6C]'> <span className='text-green-800'>Life Screening</span> Gives You the Tools You Need</h1>
