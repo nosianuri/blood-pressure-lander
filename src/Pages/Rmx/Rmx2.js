@@ -17,9 +17,7 @@ const Rmx2 = () => {
                     <p className='max-w-[800px] mx-auto sm:text-4xl text-xl  text-center sm:mb-10 mb-5 !leading-normal '>
                         <span className='bg-yellow-300 px-1 '>Don't Use The Product If Your Partner Can't Cope With Over 50 Minutes of Action.</span>
                     </p>
-
                     <h5 className='sm:text-4xl text-2xl mb-5 font-bold !leading-normal indent-8'>✨Before Seeing the Product Read the Success Story from one of our <span className=' million'>Happiest Man!</span>✨</h5>
-                    {/* <p className='text-red-500 mb-5 font-bold'>[Insert a Copyright Free Single Male Happy Image Here]</p> */}
                     <div className='sm:flex items-center gap-5'>
                         <div><img src="https://i.ibb.co/K005BRf/man.jpg" alt="" className='w-96' /></div>
                         <div>
@@ -27,7 +25,6 @@ const Rmx2 = () => {
                             <p className='mb-5 indent-8'>It happened. I am experiencing the best sex of my life. I gallop it once, two, three and then I stop counting. I finally got rid of the small pen*is complexes and regained my self-confidence.</p>
                         </div>
                     </div>
-
                     <h5 className='font-bold my-5 border-2 border-white border-l-orange-500 px-5 sm:text-3xl text-xl !leading-normal text-orange-500'>A few months ago I was a shy man with an embarrassing problem, which is…</h5>
                     <p className='mb-5 indent-8'>The micro pen*is. A problem I don't wish on anyone. The thought of having such a small thing between my legs didn't let me sleep at night. In addition, the whole emotional and working sphere was going very badly. And if that wasn't enough I also had erection problems.</p>
                     <h5 className='font-bold my-5 border-2 border-white border-l-orange-500 px-5 sm:text-3xl text-xl !leading-normal text-orange-500'>It tells us that for women size doesn't matter but what really matters is character. BULLSHIT.</h5>
@@ -61,9 +58,6 @@ const Rmx2 = () => {
                     </p>
                     <img src="https://i.ibb.co/551ZX6b/rmx-benefit.png" alt="" className='mx-auto my-5 w-3/4' />
                     <p className='text-center text-2xl !leading-normal'>The product you're about to see will help you cure <span className='font-bold underline'>Premature Eja****tion, weak manhood, quick explusion, weakness after explusion, low urge, tiredness during "action" and back pain</span>. They are 100% effective and approved by NAFDAC. </p>
-                    {/* <span className='text-orange-500 italic'>Kindly click the link below to see the Product and also see testimonials from past users below.</span> */}
-
-                    {/* <p className='text-blue-700 text-center font-bold my-5 text-2xl'>Click here to see testimonials From Users</p> */}
                     <p className='text-xl mt-5 font-medium'>Highlighted below are some of the problems we've helped people to solve with our powerful herbal product:</p>
                     <ul className='ul-article text-xl font-medium'>
                         <li>Not able to last more than 2 minutes.</li>
@@ -76,7 +70,6 @@ const Rmx2 = () => {
                     <a href="https://www.r3hlvtrk.com/3J67C/8C1LQ73/">
                         <img src={product} alt="" className='mx-auto' />
                     </a>
-                    {/* <div className='text-center sm:text-4xl text-lg my-8 font-bold'><a href="/" className='text-white bg-purple-700 underline px-4'>Click here to See The product</a></div> */}
                     <div className='text-center sm:mt-10 mt-5'>Copyright © 2023. <span className='text-orange-700'>Offer Shop Today</span> | <a className='hover:underline hover:text-orange-700' href="/disclaimer">Disclaimer</a> | <a className='hover:underline hover:text-orange-700' href="/privacy-policy">Privacy Policy</a> | <a className='hover:underline hover:text-orange-700' href="/terms-of-service">Tos</a></div>
                 </div>
             </div>

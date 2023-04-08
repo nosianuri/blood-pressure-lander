@@ -1,6 +1,6 @@
-import React from 'react'
-import { Helmet } from 'react-helmet'
-import ordergify from '../../assets/order-now.gif'
+import React from 'react';
+import { Helmet } from 'react-helmet';
+import ordergify from '../../assets/order-now.gif';
 
 const AlpileanHome = () => {
     return (
@@ -55,7 +55,6 @@ const AlpileanHome = () => {
                             <p className='sm:text-xl my-5 leading-normal'>Alpilean is also a great <span className='font-bold underline'>source of energy</span> . The supplement contains natural ingredients like Guarana Extract and Caffeine Anhydrous, which can help you feel more alert and focused throughout the day. This can help you stay motivated and on track with your weight loss goals, even when you're feeling tired or run down.</p>
                             <p className='sm:text-xl my-5 leading-normal'>Finally, Alpilean is <span className='font-bold underline'> safe and easy to use</span> . The supplement is made with natural ingredients and is free from harmful chemicals and additives. It's also easy to take – simply swallow two capsules with water before each meal. This makes it a convenient and effective weight loss solution for busy people who want to lose weight without making major lifestyle changes.</p>
                             <p className='sm:text-xl my-5 leading-normal'>In conclusion, Alpilean is a powerful natural weight loss supplement that can help you achieve your weight loss goals safely and effectively. With its ability to suppress appetite, boost metabolism, provide energy, and easy-to-use formula, it's no wonder why this supplement has become a popular choice for people looking to lose weight. <span className='font-bold underline leading-normal'> So why not give it a try and see the results for yourself?</span></p>
-                            
                         </div>
                        <div>
                             <h4 className='text-[#d91e1e] sm:text-3xl text-xl my-5 text-center leading-normal'>Don't Wait Any Longer! Order Your bottle Now!</h4>

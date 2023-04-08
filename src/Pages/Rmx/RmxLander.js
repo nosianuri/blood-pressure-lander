@@ -32,7 +32,6 @@ const RmxLander = () => {
                             <p className='sm:text-xl my-5 leading-normal'>Our pro-sexual nutrient matrix helps boost the 3S's of sex: size, stamina, and satisfaction, helping you peak perform and pleasure your partner just like you did in your 20s. RMX works by triggering two mechanisms known to increase penis size, function, and performance - an increase in "free" testosterone and nitric oxide production to the penis.
                             </p>
                             <p className='sm:text-xl my-5 leading-normal'>RMX not only gives you an instant surge in sexual power and performance but also treats the root cause of sexual dysfunctions, ensuring that you are consistently able to satisfy your partner. Our breakthrough rapid absorption and extended release technology aid in delivering instant surges of sexual power while delivering sustained results that help you enjoy on-command erections and stamina to last all night long.</p>
-
                         </div>
                         <div className='border-2 border-gray-900 p-3 rounded-xl my-10'>
                             <div className='bg-[#21368d] rounded-xl'>
@@ -41,13 +40,11 @@ const RmxLander = () => {
                             <img src="https://i.ibb.co/9v9d9JZ/rmx-benefit.png" alt="" className='mx-auto my-5' />
                             <p className='sm:text-xl my-5 leading-normal'>The RMX Male Enhancement System offers multiple sexual health benefits, including improved libido and sex drive, bigger, harder and longer erections, increased staying power, increased penis size, and improved sexual confidence. Our powerful ingredients, including L-Arginine, Asian Red Ginger Extracts, Saw Palmetto Berry, Horny Goat Weed Extract, and Bioperine, are clinically tested to guarantee maximum results.</p>
                             <p className='sm:text-xl my-5 leading-normal'>Don't just take our word for it. Hundreds of men across all ages have already benefited from RMX Male Enhancement System and have beaten sexual dysfunction to enjoy a fuller and satisfied sex life. Experience sexual power, pleasure, and performance today by ordering your RMX Male Enhancement System, proudly made in the USA at a certified manufacturing facility to meet statutory industry standards.</p>
-
                             <a href="https://www.r3hlvtrk.com/3J67C/8C1LQ73/" className='my-10'>
                                 <img src={ordergify} alt="" className='mx-auto' />
                             </a>
                             <img src="https://i.ibb.co/8414R8w/sublogo.png" alt="" className='mx-auto my-5 w-72' />
                         </div>
-
                         <div>
                             <h4 className='max-w-[700px] mx-auto text-[#d91e1e] sm:text-3xl text-xl mt-5 text-center !leading-normal'>Order from Official Website, and say goodbye to sexual dysfunction forever.
                             </h4>
@@ -56,7 +53,6 @@ const RmxLander = () => {
                                 <img src={ordergify} alt="" className='mx-auto' />
                             </a>
                         </div>
-
                     </div>
                 </div>
             </div>

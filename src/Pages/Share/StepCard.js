@@ -1,10 +1,9 @@
 import React from 'react';
-import { useState } from 'react'
-import { Transition } from '@headlessui/react'
+import { useState } from 'react';
+import { Transition } from '@headlessui/react';
 
 const StepCard = () => {
   const [step, setStep] = useState(1)
-
   const handleSubmit = (event) => {
     event.preventDefault()
     setStep(step + 1)
@@ -49,7 +48,6 @@ const StepCard = () => {
             </button>
           </div>
         </Transition>
-
         <Transition
           show={step === 2}
           enter="transition-opacity duration-500"

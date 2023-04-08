@@ -1,5 +1,5 @@
-import React from 'react'
-import { Helmet } from 'react-helmet'
+import React from 'react';
+import { Helmet } from 'react-helmet';
 
 const KetoWightLoss = () => {
     return (
@@ -19,13 +19,12 @@ const KetoWightLoss = () => {
                     <h5 className='italic my-2'>Home - Health - How to lose weight - Safe recipe to lose weight guaranteed</h5>
                     <p className='text-lg my-2'>Tired of being overweight? <span className='font-bold'>Can't lose weight?</span> Or, as soon as you lose weight, do you gain weight again? Do you really want to wear your favorite dress, but you can't "wear it" and buying nice clothes is a <span className='font-bold'>big problem</span> for you?</p>
                     <div className='sm:flex gap-5 my-10'>
-                        <img src="https://i.ibb.co/RDSCCn9/woman.webp" alt=""  className='mx-auto mb-5 sm:mb-0' />
+                        <img src="https://i.ibb.co/RDSCCn9/woman.webp" alt="" className='mx-auto mb-5 sm:mb-0' />
                         <div>
                             <p className='text-lg'>“I am grateful to the people who called me fat and patronized me. If it weren't for them, I would still be just as fat!” says Marina Cortés, who has lost 26 kilograms. On the way to a beautiful body, she tried many different diets, but the most effective was a very simple way. Marina told in detail about this method, after which she does not gain extra weight even after weight loss. Here is her fascinating story ... <br /> <br />
                                 I've never been a fragile girl, but the extra weight didn't give me any particular reason to have complexes. Having met my future husband Samuel, I completely relaxed and only came to my senses when I got really fat.</p>
                         </div>
                     </div>
-
                     <div className='font-bold my-5 border-2 border-white border-l-gray-500 px-5 text-3xl !leading-normal'>When I met Samuel, I completely relaxed, only coming to my senses when I got really fat.</div>
                     <p className='text-lg'>Our relationship with Samuel is over 7 years old, and during this time we had two children. But until recently we had, as they say now, "guest marriage." Samuel lived in his apartment, worked a lot and only came to me. And then he was gone again.</p>
                     <p className='text-lg my-2'>From the beginning of our relationship, I constantly waited for him to make the "proposal" to me. That was my dream</p>
@@ -34,11 +33,8 @@ const KetoWightLoss = () => {
                     </div>
                     <p className='text-lg'>
                         Having become pregnant for the first time, I thought that now we would definitely get married. But it didn't happen. Samuel, it just came and went. And I kept waiting for it... <br /><br />
-
                         When my eldest son was born, Samuel and I were very happy. He adopted the child, surrounded me with all kinds of care, helped me in everything. I felt that he loved us, but with a special love of his own. <br /> <br />
-
                         My little son turned 2 years old, we decided to go on vacation together for 2 weeks. Sea, sun and sand. I miss my vacation! <br /> <br />
-
                         Egypt with a good hotel, a warm beach, food and all inclusive was the perfect option for us. <br /> <br />
                     </p>
                     <img src="https://i.ibb.co/0GvyCHy/woman2.webp" alt="" className='mx-auto w-72' />
@@ -352,7 +348,6 @@ const KetoWightLoss = () => {
                                 <button className='discover_button'>DISCOVER IT NOW</button>
                             </a>
                         </div>
-
                         <footer>
                             <p className='text-slate-500'>2023 . Woman look. All rights reserved.</p>
                         </footer>

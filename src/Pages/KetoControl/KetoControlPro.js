@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { Helmet } from 'react-helmet';
 import './ketoControlPro.css';
 
@@ -90,9 +90,9 @@ const KetoControlPro = () => {
                                     <h1 className='italic sm:text-3xl text-xl font-semibold my-5'>THESE WERE MY RESULTS 30 LBS OF STOMACH FAT LOST IN JUST 1 MONTH:</h1>
                                     <p className='sm:text-3xl text-xl mb-3'>Week 1</p>
                                     <div className='sm:flex gap-3'>
-                                        
-                                            <img src="https://i.ibb.co/wwtsQPq/W1.png" alt="" className='w-full' />
-                                        
+
+                                        <img src="https://i.ibb.co/wwtsQPq/W1.png" alt="" className='w-full' />
+
                                         <p className='italic'>After 7 days on the <a className='font-bold text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Shark Tank Keto Control™ Weight Loss Supplements</a>, I was in awe by how quick and dramatic the effects were. My spirits were up and I wasn't as hungry as usual. The appetite suppression was a welcomed side effect of the <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> ™. I felt phenomenal and best part of all was that I didn't change a single thing about my daily routine or diet. Still no gym for me!</p>
                                     </div>
                                     <p className='italic'>On Day 7, I stepped on the electronic scale and used a caliper to find out my body fat. I had to double check because I couldn't believe it–I had lost 5 pounds of fat in my first week!
@@ -100,23 +100,17 @@ const KetoControlPro = () => {
                                         But I was still very skeptical! Many people say they lose a lot of ‘water weight' at the beginning of any cleanse or diet. I wanted to see what happened over the next few weeks before jumping to any conclusions.</p>
                                     <h6 className='sm:text-3xl text-xl my-3 italic'>Week 2</h6>
                                     <div className='sm:flex gap-3 mb-2'>
-                                        
-                                            <img src="https://i.ibb.co/xsPmDBj/W2.png" alt="" />
-                                       
+                                        <img src="https://i.ibb.co/xsPmDBj/W2.png" alt="" />
                                         <p className='italic text-lg'>After 14 days of using <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  I clearly had more energy and focus than ever before. The detoxifying components helped me sleep the entire night, every night I kid you not I was even burning fat in my sleep. I lost 7 pounds of belly fat, and began to see my abs coming back, something my husband obviously loved. After just 14 days, I felt very confident that these two products were the real deal.</p>
                                     </div>
                                     <h6 className='sm:text-3xl text-xl my-3 italic'>Week 3</h6>
                                     <div className='sm:flex gap-3 mb-2'>
-                                        
-                                            <img src="https://i.ibb.co/Fx21mNh/W3.png" alt="" />
-                                       
+                                        <img src="https://i.ibb.co/Fx21mNh/W3.png" alt="" />
                                         <p className='italic text-lg'>After 21 days, all my doubts were gone and I was officially a believer! I was down another 7 pounds. And I still have more bounce in my step. My apartment is immaculate from all the cleaning I've been doing. In the past, after a few weeks of other diet programs, I'd begin to run out of steam, but with <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  my energy levels didn't dip and were consistent throughout the day.</p>
                                     </div>
                                     <h6 className='sm:text-3xl text-xl my-3 italic'>Week 4</h6>
                                     <div className='sm:flex gap-3 mb-2'>
-                                        
-                                            <img src="https://i.ibb.co/BGSz8Jz/W4.png" alt="" />
-                                       
+                                        <img src="https://i.ibb.co/BGSz8Jz/W4.png" alt="" />
                                         <p className='italic text-lg'>After the fourth week, my final results were incredible. Look at the new me! I lost an unbelievable 31 pounds since starting I started using these Skinny Pills! Everyone at PIOP is kicking themselves for not having volunteered to be the guinea pig. Using the <a className='font-bold underline hover:no-underline text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a>  in week 4, I lost an additional 11 pounds.</p>
                                     </div>
                                     <h5 className='italic sm:text-3xl text-xl my-5'>CELEBRITIES LOVE <a className='font-bold  text-orange-500' href="https://www.r3hlvtrk.com/3J67C/8BZ7TGG/">Keto Control™</a> </h5>
@@ -381,7 +375,6 @@ const KetoControlPro = () => {
                     </div>
                 </section>
             </div>
-
         </>
     )
 }

@@ -28,7 +28,6 @@ const KetoWightLoss = () => {
                                         I've never been a fragile girl, but the extra weight didn't give me any particular reason to have complexes. Having met my future husband Samuel, I completely relaxed and only came to my senses when I got really fat.</p>
                                 </div>
                             </div>
-
                             <div className='font-bold my-5 border-2 border-white border-l-gray-500 px-5 text-2xl !leading-normal'>When I met Samuel, I completely relaxed, only coming to my senses when I got really fat.</div>
                             <p className=''>Our relationship with Samuel is over 7 years old, and during this time we had two children. But until recently we had, as they say now, "guest marriage." Samuel lived in his apartment, worked a lot and only came to me. And then he was gone again.</p>
                             <p className=' my-2'>From the beginning of our relationship, I constantly waited for him to make the "proposal" to me. That was my dream</p>
@@ -37,14 +36,10 @@ const KetoWightLoss = () => {
                             </div>
                             <p className=''>
                                 Having become pregnant for the first time, I thought that now we would definitely get married. But it didn't happen. Samuel, it just came and went. And I kept waiting for it... <br /><br />
-
                                 When my eldest son was born, Samuel and I were very happy. He adopted the child, surrounded me with all kinds of care, helped me in everything. I felt that he loved us, but with a special love of his own. <br /> <br />
-
                                 My little son turned 2 years old, we decided to go on vacation together for 2 weeks. Sea, sun and sand. I miss my vacation! <br /> <br />
-
                                 Egypt with a good hotel, a warm beach, food and all inclusive was the perfect option for us. <br /> <br />
                             </p>
-
                             <img src="https://i.ibb.co/Ssn975P/size-control.png" alt="" className='mx-auto w-72' />
                             <p className='my-2 '>On the beach, I suddenly noticed that Samuel was looking at a girl for a long time. I didn't say anything, but I just decided to watch Samuel. At first I thought he fell in love at first sight. But a little later he changed the object of his attention and he also began to closely observe the other girl, then the third, and so on ad infinitum!</p>
                             <p className=' '>She was angry! My son and I didn't seem to be close.</p>
@@ -114,7 +109,6 @@ const KetoWightLoss = () => {
                                 Based on the composition, it is possible to understand why the effectiveness of the drug is so high. Your body does not need substances, but at the same time the active extracts constantly break down fats. <br /></div>
                             <p className='my-2 '>Olivia showed me <a href='https://www.r3hlvtrk.com/3J67C/8BZ7TGG/' className='font-bold underline hover:no-underline text-orange-500'>Keto Control™</a>. It is a complex of natural components for weight loss, which strengthen the action of each other. The main thing is not to forget to take, then the result comes soon.</p>
                         </div>
-
                         <div>
                             <div className='mb-8'>
                                 <h5 className='text-xl mb-2'>Special Offer</h5>
@@ -218,8 +212,6 @@ const KetoWightLoss = () => {
                             </div>
                         </div>
                     </div>
-
-
                     <div className='font-bold my-5 border-2 border-white border-l-gray-500 px-5 text-2xl !leading-normal'>All that is needed is to prepare the coffee and use it according to the recommendations. And that's it!</div>
                     <p>All that is needed is to prepare the coffee and apply it according to the recommendations. And that's it! This is the whole recipe! How about?
                         <br /> <br />
@@ -342,7 +334,6 @@ const KetoWightLoss = () => {
                             <button className='discover_button'>GO TO THE MANUFACTURER'S SITE</button>
                         </a>
                     </div>
-
                     <div>
                         <div className='flex gap-5 border border-white border-b-gray-300 px-1 py-5'>
                             <img src="https://i.ibb.co/M6Yz8cQ/maria.webp" alt="" className='review-img' />
@@ -351,7 +342,6 @@ const KetoWightLoss = () => {
                                 <p className='mt-1'>You just had to eat less from the start!</p>
                             </div>
                         </div>
-
                         <div className='flex gap-5 border border-white border-b-gray-300 px-1 py-5'>
                             <img src="https://i.ibb.co/4Ny7XY9/princesa.webp" alt="" className='review-img' />
                             <div>
@@ -464,25 +454,17 @@ const KetoWightLoss = () => {
                                 <button className='discover_button'>DISCOVER IT NOW</button>
                             </a>
                         </div>
-
-
                     </div>
                 </div>
                 <div className='bg-orange-600 text-white py-5'>
                     <div className='max-w-7xl mx-auto px-4 py-2 text-xs border border-dashed border-[#ffffff] mt-5'>
                       <p><span className='font-semibold underline'>Disclaimer:</span> The above is an advertorial review of the Keto Control weight loss product, created by Offershoptoday.com. This content is sponsored and created by Offershoptoday.com, and the views expressed within this article are not endorsed by or representative of the views of its affiliates.</p>  
                         <p className='my-1'>At Offershoptoday.com, we're dedicated to providing our readers with accurate and informative reviews of the latest health and wellness products. In this article, we're taking a closer look at Keto Control, a weight loss supplement that's been generating a lot of buzz lately.</p>
-                        
                         <p>Keto Control is a dietary supplement that claims to promote weight loss by inducing ketosis, a metabolic state in which the body burns fat for energy instead of carbohydrates. According to the manufacturer, the supplement is made with natural ingredients that work together to help the body enter ketosis more quickly and easily.</p>
-                        
                         <p className='my-1'>While there is some scientific evidence to support the idea that a ketogenic diet can lead to weight loss, the long-term effects of such a diet are not fully understood. It's also important to note that individual results may vary, and that a healthy diet and regular exercise are still key components of any successful weight loss program.</p>
-                        
                         <p>Before taking any new supplement, it's important to talk to your doctor to make sure it's right for you. Additionally, it's important to follow the dosage instructions carefully and to stop using the product if you experience any adverse reactions.</p>
-                        
                         <p className='my-1'>At Offershoptoday.com, we strive to provide our readers with accurate and unbiased information about the products we review. However, it's important to keep in mind that our reviews are based on our own experiences and opinions, and that individual results may vary.</p>
-                        
                         <p>If you're interested in trying Keto Control for yourself, we recommend that you visit the manufacturer's website to learn more and place your order. As with any new supplement, it's important to do your research and talk to your doctor before trying it out.</p>
-                        
                     </div>
                     <footer className='mt-5'>
                         <div className='sm:flex justify-between max-w-[900px] mx-auto my-5 px-3'>
