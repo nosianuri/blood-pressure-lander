@@ -17,6 +17,7 @@ import LifelineSg from './Pages/LifelineSg/LifelineSg';
 import Erc from './Pages/Erc/Erc';
 import Preloader from './Pages/Share/Preloader';
 import TrailPage from './components/TrailPage';
+import CreditDebt from './Pages/CreditDebt/CreditDebt';
 
 function App() {
   return (
@@ -37,6 +38,7 @@ function App() {
         <Route path='/erc' element={<Erc />} />
         <Route path='/privacy-policy' element={<PrivacyPolicy />} />
         <Route path='/alpileansite' element={<AlpileanNew />} />
+        <Route path='/credit-debt' element={<CreditDebt />} />
       </Routes>
     </div>
   );
